@@ -1,13 +1,13 @@
 # Presentations
 April 14, 2024  
 **On this page:**
-> [Active Presentations](#active-presentations)
-> [Retired Presentations](#retired-presentations)
-> [Abandoned Presentations](#abandonded-presentations)
+> [Active Presentations](#active-presentations)  
+> [Retired Presentations](#retired-presentations)  
+> [Abandoned Presentations](#abandonded-presentations)  
 
 **Other resources:**
->  [Speaking Engagements](README.md) 
->  [Event Submissions](event-submissions.md) 
+>  [Speaking Engagements](README.md)   
+>  [Event Submissions](event-submissions.md)   
 ---
 
 ## Active Presentations

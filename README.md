@@ -1,19 +1,19 @@
 # Chad Green's Speaking Engagements
 **On this page:**
-> [Upcoming Events (5 events; 9 presentations)](#upcoming-events-4-events-6-presentations)
-> [2024 Events (3 events; 7 presentations)](#2024-events-3-events-7-presentations)
-> [2023 Events (11events; 18 presentations)](#2023-events-11-events-18-presentations)
-> [2022 Events (18 events; 30 presentations)](#2022-events-18-events-30-presentations)
-> [2021 Events (22 events; 30 presentations)](#2021-events-22-events-30-presentations)
-> [2020 Events (13 events; 19 presentations)](#2020-events-13-events-19-presentations)
-> [2019 Events (23 events; 39 presentations)](#2019-events-23-events-39-presentations)
-> [2018 Events (12 events; 16 presentations)](#2018-events-12-events-16-presentations)
-> [2017 Events (4 events; 8 presentations)](#2017-events-4-events-8-presentations)
-> [2016 Events (8 events; 16 presentations)](#2016-events-8-events-16-presentations)
+> [Upcoming Events (5 events; 9 presentations)](#upcoming-events-4-events-6-presentations)  
+> [2024 Events (3 events; 7 presentations)](#2024-events-3-events-7-presentations)  
+> [2023 Events (11events; 18 presentations)](#2023-events-11-events-18-presentations)  
+> [2022 Events (18 events; 30 presentations)](#2022-events-18-events-30-presentations)  
+> [2021 Events (22 events; 30 presentations)](#2021-events-22-events-30-presentations)  
+> [2020 Events (13 events; 19 presentations)](#2020-events-13-events-19-presentations)  
+> [2019 Events (23 events; 39 presentations)](#2019-events-23-events-39-presentations)  
+> [2018 Events (12 events; 16 presentations)](#2018-events-12-events-16-presentations)  
+> [2017 Events (4 events; 8 presentations)](#2017-events-4-events-8-presentations)  
+> [2016 Events (8 events; 16 presentations)](#2016-events-8-events-16-presentations)  
 
 **Other resources:**
-> [Presentations](presentations.md) 
-> [Event Submissions](event-submissions.md) 
+> [Presentations](presentations.md)   
+> [Event Submissions](event-submissions.md)   
 
 ---
 I seem to be forever rebuilding my website, but I have reached out to someone for help on the visuals and hope to have a new site up and running later in 2024. This serves as a temporary location for listing upcoming and previous events.

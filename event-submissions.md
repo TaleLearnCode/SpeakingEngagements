@@ -1,10 +1,10 @@
 # Event Submissions
 **On the page:**
-> [2024 Submissions](#2024)
+> [2024 Submissions](#2024)  
 
 **Other resources:**
-> [Speaking Engagements](README.md) 
-> [Presentations](presentations.md) 
+> [Speaking Engagements](README.md)   
+> [Presentations](presentations.md)   
 
 ---
 I am utilizing this page to track my event submissions. Primarily, it serves my personal and organizational needs, aiding in recalling where I've applied. However, it also offers insight to those impressed by the volume of speaking engagements I do and just how many events I have to submit to to get to that number.
