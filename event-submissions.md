@@ -5,9 +5,12 @@
 **Other resources:**
 > [Speaking Engagements](README.md)   
 > [Presentations](presentations.md)   
+> [Pending Event Submissions](pending-event-submissions.md) 
 
 ---
 I am utilizing this page to track my event submissions. Primarily, it serves my personal and organizational needs, aiding in recalling where I've applied. However, it also offers insight to those impressed by the volume of speaking engagements I do and just how many events I have to submit to to get to that number.
+
+If you want to see just what is pending, please check the [Pending Event Submissions](pending-event-submissions.md) page.
 
 ## 2024
 
@@ -30,10 +33,10 @@ I am utilizing this page to track my event submissions. Primarily, it serves my 
 | Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! | Dormant |
 | Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled! | Dormant |
 | Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Essential Software Design Patterns for Optimal Development | Accepted |
-| Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | In Evaluation |
-| Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! | In Evaluation |
-| Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Azure Durable Functions for Serverless .NET Orchestration | In Evaluation |
-| Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled! | In Evaluation |
+| Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | Declined |
+| Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! | Declined |
+| Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Azure Durable Functions for Serverless .NET Orchestration | Declined |
+| Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled! | Declined |
 | Nebraska.Code() 2024 | July 17 - 19, 2024 | Lincoln, NE | Design and Develop a Serverless Event-Driven Microservice-Based Solution  | Accepted |
 | Nebraska.Code() 2024 | July 17 - 19, 2024 | Lincoln, NE | Beyond Hello World: Getting Deeper into Azure Functions  | In Evaluation |
 | Nebraska.Code() 2024 | July 17 - 19, 2024 | Lincoln, NE | Other Duties as Assigned  | In Evaluation |
@@ -47,8 +50,8 @@ I am utilizing this page to track my event submissions. Primarily, it serves my 
 | Beer City Code 2024 | August 2 - 3, 2024 | Grand Rapids, MI | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | Accepted |
 | Beer City Code 2024 | August 2 - 3, 2024 | Grand Rapids, MI | Building Serverless Solutions with Azure and .NET (Workshop) | Accepted |
 | Beer City Code 2024 | August 2 - 3, 2024 | Grand Rapids, MI | Essential Software Design Patterns for Optimal Development | Withdrawn |
-| Beer City Code 2024 | August 2 - 3, 2024 | Grand Rapids, MI | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled! | In Evaluation |
-| Beer City Code 2024 | August 2 - 3, 2024 | Grand Rapids, MI | Azure Durable Functions for Serverless .NET Orchestration | In Evaluation |
+| Beer City Code 2024 | August 2 - 3, 2024 | Grand Rapids, MI | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled! | Declined |
+| Beer City Code 2024 | August 2 - 3, 2024 | Grand Rapids, MI | Azure Durable Functions for Serverless .NET Orchestration | Declined |
 | dev up 2024 | August 14 - 16 | St. Charles, MO | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | Accepted |
 | dev up 2024 | August 14 - 16 | St. Charles, MO | Building Serverless Solutions with Azure and .NET | Accepted |
 | dev up 2024 | August 14 - 16 | St. Charles, MO | Beyond Hello World: Getting Deeper into Azure Functions | In Evaluation |
@@ -77,7 +80,19 @@ I am utilizing this page to track my event submissions. Primarily, it serves my 
 | Techorama 2024 Netherlands | October 7 - 9, 2024 | Utrecht, The Netherlands | Crack the Code to Scalability: Mastering Server5less Architectures for Unstoppable Apps! | In Evaluation |
 | Techorama 2024 Netherlands | October 7 - 9, 2024 | Utrecht, The Netherlands | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled! | In Evaluation |
 | Techorama 2024 Netherlands | October 7 - 9, 2024 | Utrecht, The Netherlands | Azure Durable Functions for Serverless .NET Orchestration | In Evaluation |
+| API Con | October 20 - 24, 2024 | Berlin, Germany | Mastering Serverless and API-Centric Designs | Accepted |
+| Serverless Architecture Con | October 20 - 24, 2024 | Berlin, Germany | Ch-ch-ch-changes: Tracing Changes in Azure Cosmos DB | Under Review |
+| Serverless Architecture Con | October 20 - 24, 2024 | Berlin, Germany | Going Schema-Less: How to Migrate a Relational Database to a NoSQL Database | Accepted |
+| Serverless Architecture Con | October 20 - 24, 2024 | Berlin, Germany | Beyond Hello World: Getting Deeper into Azure Functions | Under Review |
+| Serverless Architecture Con | October 20 - 24, 2024 | Berlin, Germany | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled! | Under Review |
+| Serverless Architecture Con | October 20 - 24, 2024 | Berlin, Germany | Azure Durable Functions for Serverless .NET Orchestration | Under Review |
+| Serverless Architecture Con | October 20 - 24, 2024 | Berlin, Germany | Architect Like a Boss: Mastering Serverless Design Patterns | Accepted |
+| Serverless Architecture Con | October 20 - 24, 2024 | Berlin, Germany | Advanced Serverless Workshop | Accepted |
 | Live! 360 Tech Con Orlando 2024 | November 17 - 22, 2024 | Orlando, FL | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled | In Evaluation |
 | Live! 360 Tech Con Orlando 2024 | November 17 - 22, 2024 | Orlando, FL | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! | In Evaluation |
 | Live! 360 Tech Con Orlando 2024 | November 17 - 22, 2024 | Orlando, FL | Essential Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | In Evaluation |
 | Live! 360 Tech Con Orlando 2024 | November 17 - 22, 2024 | Orlando, FL | Terraform: The Developer's Swiss Army Knife for Infrastructure | In Evaluation |
+| DevOps Con Singapore 2024 | November 24-28, 2024 | Singapore | Navigating the Maze: Communicating Architecture Decisions with Azure Decision Records | Under Review |
+| DevOps Con Singapore 2024 | November 24-28, 2024 | Singapore | Choosing Your Code Companion: GitHub vs Azure DevOps | Under Review |
+| DevOps Con Singapore 2024 | November 24-28, 2024 | Singapore | Terraform: The Developer's Swiss Army Knife for Infrastructure | Under Review |
+| DevOps Con Singapore 2024 | November 24-28, 2024 | Singapore | Technical Debt Is Not Free | Under Review |

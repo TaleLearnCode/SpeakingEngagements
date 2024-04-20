@@ -1,9 +1,9 @@
 # Chad Green's Speaking Engagements
 **On this page:**
-> [Upcoming Events (5 events; 9 presentations)](#upcoming-events-4-events-6-presentations)  
+> [Upcoming Events (11 events; 17 presentations)](#upcoming-events-11-events-17-presentations)  
 > [2024 Events (3 events; 7 presentations)](#2024-events-3-events-7-presentations)  
 > [2023 Events (11events; 18 presentations)](#2023-events-11-events-18-presentations)  
-> [2022 Events (18 events; 30 presentations)](#2022-events-18-events-30-presentations)  
+> [2022 Events (19 events; 30 presentations)](#2022-events-19-events-30-presentations)  
 > [2021 Events (22 events; 30 presentations)](#2021-events-22-events-30-presentations)  
 > [2020 Events (13 events; 19 presentations)](#2020-events-13-events-19-presentations)  
 > [2019 Events (23 events; 39 presentations)](#2019-events-23-events-39-presentations)  
@@ -18,19 +18,27 @@
 ---
 I seem to be forever rebuilding my website, but I have reached out to someone for help on the visuals and hope to have a new site up and running later in 2024. This serves as a temporary location for listing upcoming and previous events.
 
-## Upcoming Events (5 events; 9 presentations)
+## Upcoming Events (11 events; 17 presentations)
 
 | Event | Date | Location | Presentation |
 |---|---|---|---|
+| Louisville .NET Meetup | May 23, 2024 | Louisville .NET Meetup | Essential Software Design Patterns for Optimal Development |
+| Tulsa .NET User Group | June 25, 2024 | Tulsa, OK (Online) | Essential Software Design Patterns for Optimal Development |
+| Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Essential Software Design Patterns for Optimal Development |
+| Louisville Azure Meetup | July 11, 2024 | Louisville, KY | Unleashing Extreme Scalability with Azure Functions |
 | Nebraska.Code() 2024 | July 17-19, 2024 | Lincoln, NE | Design and Develop a Serverless Event-Driven Microservice-Based Solution |
 | Nebraska.Code() 2024 | July 17-19, 2024 | Lincoln, NE | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! |
 | Nebraska.Code() 2024 | July 17-19, 2024 | Lincoln, NE | Essential Software Design Patterns for Optimal Development |
-| Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Essential Software Design Patterns for Optimal Development |
 | Cincy Deliver 2024 | July 26, 2024 | Cincinnati, OH | Terraform: The Developer's Swiss Army Knife for Infrastructure |
 | Beer City Code 2024 | August 2, 2024 | Grand Rapids, MI | Building Serverless Solutions with Azure and .NET (Workshop) |
 | Beer City Code 2024 | August 3, 2024 | Grand Rapids, MI | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit |
 | dev up 2024 | August 14 - 16, 2024 | St. Charles, MO | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit |
 | dev up 2024 | August 14 - 16, 2024 | St. Charles, MO | Building Serverless Solutions with Azure and .NET |
+| Louisville .NET Meetup | August 22, 2024 | Louisville, KY | Season of AI |
+| API Con Berlin 2024 | October 20 - 23, 2024 | Berlin, Germany | Mastering Serverless and API-Centric Designs |
+| Serverless Architecture Conference Berlin 2024 | October 20 - 23, 2024 | Berlin, Germany | Going Schema-Less: How to Migrate a Relational Database to a NoSQL Database |
+| Serverless Architecture Conference Berlin 2024 | October 20 - 23, 2024 | Berlin, Germany | Architect Like a Boss: Mastering Serverless Design Patterns |
+| Serverless Architecture Conference Berlin 2024 | October 20 - 23, 2024 | Berlin, Germany | Advanced Serverless Workshop |
 
 ## 2024 Events (3 events; 7 presentations)
 | Event | Date | Location | Presentation |
@@ -43,7 +51,7 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | CodeMash 2024 | January 12, 2024 | Sandusky, OH | Technical Debt Is Not Free |
 | CodeMash 2024 | January 9, 2024 | Sandusky, OH | Design and Develop a Serverless Event-Driven Microservice-based Solution |
 
-## 2023 Events (11events; 18 presentations)
+## 2023 Events (11 events; 18 presentations)
 | Event | Date | Location | Presentation |
 |---|---|---|---|
 | TechBash 2023 | November 9, 2023 | Pocono Manor, PA | Time Travelling Data: SQL Server Temporal Tables |
@@ -65,7 +73,7 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | Visual Studio Live! Las Vegas 2023 | March 19 - 24, 2023 | Las Vegas, NV | Technical Debt Is Not Free |
 | Visual Studio Live! Las Vegas 2023 | March 19 - 24 | Las Vegas, NV | Technical Debt Is Not Free |
 
-## 2022 Events (18 events; 30 presentations)
+## 2022 Events (19 events; 30 presentations)
 | Event | Date | Location | Presentation |
 |---|---|---|---|
 | [TechBash 2022](https://techbash.com/) |  November 8 - 11, 2022 | Pocono Manor, PA | [Ch-ch-ch-changes: Tracing Changes in Azure Cosmos DB](https://github.com/TaleLearnCode/Ch-ch-ch-changes-Tracing-Changes-in-Azure-Cosmos-DB) |
@@ -73,7 +81,7 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | [Prairie Dev Con Winnipeg](https://www.prairiedevcon.com/winnipeg.html) | November 7 - 8, 2022  | Winnipeg, MB | [Building Event-Driven Microservices](https://github.com/TaleLearnCode/BuildingEventDrivenMicroservices) |
 | [Prairie Dev Con Winnipeg](https://www.prairiedevcon.com/winnipeg.html) | November 7 - 8, 2022  | Winnipeg, MB | [Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
 | [Momentum 2022](https://momentumdevcon.com/) |  October 20, 2022 | Cincinnati, OH | [Building Event-Driven Microservices](https://github.com/TaleLearnCode/BuildingEventDrivenMicroservices) |
-| [Indy.Code()](https://indycode.amegala.com/) | Carmel, IN | October 19, 2022 | [Building Event-Driven Microservices](https://github.com/TaleLearnCode/BuildingEventDrivenMicroservices) | 
+| [Indy.Code()](https://indycode.amegala.com/) | Carmel, IN | October 19, 2022 | [Building Event-Driven Microservices](https://github.com/TaleLearnCode/BuildingEventDrivenMicroservices) |
 | [Indy.Code()](https://indycode.amegala.com/) | Carmel, IN | October 19, 2022 | [The Taming of the API](https://github.com/TaleLearnCode/TheTamingOfTheAPI) |
 |  [Serverless Architecture Conference](https://serverless-architecture.io/berlin/) | October 17 - 19, 2022 | Berlin, Germany | [Advanced Serverless Workshop](https://github.com/TaleLearnCode/AdvancedServerlessWorkshop) |
 | [Prairie Dev Con Regina](https://www.prairiedevcon.com/regina.html) | October 3 - 4, 2022 | Regina, SK | [Building Event-Driven Microservices](https://github.com/TaleLearnCode/BuildingEventDrivenMicroservices) |
@@ -85,20 +93,20 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | [Beer City Code](https://www.beercitycode.com/) | Grand Rapids, MI | August 6, 2022 | [The Taming of the API](https://github.com/TaleLearnCode/TheTamingOfTheAPI) |
 | [THAT Wisconsin Dells](https://that.us/events/wi/2022) | July 25 - 28, 2022 | Wisconsin Dells, WI | [Going Schema-less: How to migrate a relational database to a NoSQL database](https://github.com/TaleLearnCode/GoingSchemaless) |
 | [THAT Wisconsin Dells](https://that.us/events/wi/2022) | July 25 - 28, 2022 | Wisconsin Dells, WI | [Building Event-Driven Microservices](https://github.com/TaleLearnCode/BuildingEventDrivenMicroservices) |
-| [Scenic City Summit](https://sceniccitysummit.com/) | July 22, 2022 | Chattanooga, TN | [Building Microservice REST APIs Using Azure Functions](https://github.com/TaleLearnCode/BuildingMicroserviceRESTAPIsUsingAzureFunctions)
+| [Scenic City Summit](https://sceniccitysummit.com/) | July 22, 2022 | Chattanooga, TN | [Building Microservice REST APIs Using Azure Functions](https://github.com/TaleLearnCode/BuildingMicroserviceRESTAPIsUsingAzureFunctions)|
 | [Scenic City Summit](https://sceniccitysummit.com/) | July 22, 2022 | Chattanooga, TN | [Technical Debt Is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
 | [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/287184638/) | July 20, 2022 | Louisville, KY | [Technical Debt Is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
 | [Nebraska.Code()](https://nebraskacode.amegala.com/Sessions) | July 13 - 15, 2022 | Lincoln, NE | [Technical Debt Is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
 | [Nebraska.Code()](https://nebraskacode.amegala.com/Sessions) | July 13 - 15, 2022 | Lincoln, NE | [The Taming of the API](https://github.com/TaleLearnCode/TheTamingOfTheAPI) |
 |  [dev up](https://www.devupconf.org/) | June 6 - 8, 2022 | St. Charles, MO | [ Building Microservice REST APIs Using Azure Functions](https://github.com/TaleLearnCode/BuildingMicroserviceRESTAPIsUsingAzureFunctions) |
-[Building Event-Driven Microservices](https://github.com/TaleLearnCode/BuildingEventDrivenMicroservices) |
+|[Building Event-Driven Microservices](https://github.com/TaleLearnCode/BuildingEventDrivenMicroservices) ||||
 |  [dev up](https://www.devupconf.org/) | June 6 - 8, 2022 | St. Charles, MO | [Ch-ch-ch-changes: Tracing Changes in Azure Cosmos DB](https://github.com/TaleLearnCode/Ch-ch-ch-changes-Tracing-Changes-in-Azure-Cosmos-DB) |
 |  [dev up](https://www.devupconf.org/) | June 6 - 8, 2022 | St. Charles, MO | [Technical Debt Is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
 |  [dev up](https://www.devupconf.org/) | June 6 - 8, 2022 | St. Charles, MO | [The Taming of the API](https://github.com/TaleLearnCode/TheTamingOfTheAPI) |
 | [StirTrek](https://stirtrek.com/speakers/2022/Chad-Green.html#abstract) | May 6, 2022 | Columbus, OH | [Building Microservice REST APIs Using Azure Functions](https://github.com/TaleLearnCode/BuildingMicroserviceRESTAPIsUsingAzureFunctions |
-| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/285367376/) | April 28, 2022 | Louisville, KY | [Building Microservice REST APIs Using Azure Functions](https://github.com/TaleLearnCode/BuildingMicroserviceRESTAPIsUsingAzureFunctions) | 
-| [CodeStock](https://www.codestock.org/) | April 7 - 8, 2022 | Knoxsville, TN | [The Taming of the API](https://github.com/TaleLearnCode/TheTamingOfTheAPI) |
-| [CodeStock](https://www.codestock.org/) | April 7 - 8, 2022 | Knoxsville, TN | [Building Event-Driven Microservices](https://github.com/TaleLearnCode/BuildingEventDrivenMicroservices) |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/285367376/) | April 28, 2022 | Louisville, KY | [Building Microservice REST APIs Using Azure Functions](https://github.com/TaleLearnCode/BuildingMicroserviceRESTAPIsUsingAzureFunctions) |
+| [CodeStock](https://www.codestock.org/) | April 7 - 8, 2022 | Knoxville, TN | [The Taming of the API](https://github.com/TaleLearnCode/TheTamingOfTheAPI) |
+| [CodeStock](https://www.codestock.org/) | April 7 - 8, 2022 | Knoxville, TN | [Building Event-Driven Microservices](https://github.com/TaleLearnCode/BuildingEventDrivenMicroservices) |
 
 ## 2021 Events (22 events; 30 presentations)
 | Event | Date | Location | Presentation |
