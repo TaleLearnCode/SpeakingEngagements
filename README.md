@@ -22,23 +22,23 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 
 | Event | Date | Location | Presentation |
 |---|---|---|---|
-| Louisville .NET Meetup | May 23, 2024 | Louisville .NET Meetup | Essential Software Design Patterns for Optimal Development |
-| Tulsa .NET User Group | June 25, 2024 | Tulsa, OK (Online) | Essential Software Design Patterns for Optimal Development |
-| Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Essential Software Design Patterns for Optimal Development |
-| Louisville Azure Meetup | July 11, 2024 | Louisville, KY | Unleashing Extreme Scalability with Azure Functions |
-| Nebraska.Code() 2024 | July 17-19, 2024 | Lincoln, NE | Design and Develop a Serverless Event-Driven Microservice-Based Solution |
-| Nebraska.Code() 2024 | July 17-19, 2024 | Lincoln, NE | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! |
-| Nebraska.Code() 2024 | July 17-19, 2024 | Lincoln, NE | Essential Software Design Patterns for Optimal Development |
-| Cincy Deliver 2024 | July 26, 2024 | Cincinnati, OH | Terraform: The Developer's Swiss Army Knife for Infrastructure |
-| Beer City Code 2024 | August 2, 2024 | Grand Rapids, MI | Building Serverless Solutions with Azure and .NET (Workshop) |
-| Beer City Code 2024 | August 3, 2024 | Grand Rapids, MI | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit |
-| dev up 2024 | August 14 - 16, 2024 | St. Charles, MO | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit |
-| dev up 2024 | August 14 - 16, 2024 | St. Charles, MO | Building Serverless Solutions with Azure and .NET |
-| Louisville .NET Meetup | August 22, 2024 | Louisville, KY | Season of AI |
-| API Con Berlin 2024 | October 20 - 23, 2024 | Berlin, Germany | Mastering Serverless and API-Centric Designs |
-| Serverless Architecture Conference Berlin 2024 | October 20 - 23, 2024 | Berlin, Germany | Going Schema-Less: How to Migrate a Relational Database to a NoSQL Database |
-| Serverless Architecture Conference Berlin 2024 | October 20 - 23, 2024 | Berlin, Germany | Architect Like a Boss: Mastering Serverless Design Patterns |
-| Serverless Architecture Conference Berlin 2024 | October 20 - 23, 2024 | Berlin, Germany | Advanced Serverless Workshop |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300463326/) | May 23, 2024 | Louisville .NET Meetup | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+| Tulsa .NET User Group | June 25, 2024 | Tulsa, OK (Online) | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+| [Scenic City Summit 2024](https://sceniccitysummit.com/) | June 28, 2024 | Chattanooga, TN | Essential Software Design Patterns for Optimal Development |
+| [Louisville Azure Meetup](https://www.meetup.com/louisville-azure-meetup/events/300314705/) | July 11, 2024 | Louisville, KY | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Design and Develop a Serverless Event-Driven Microservice-Based Solution](https://github.com/TaleLearnCode/DesignDevelopServerlessEventDrivenMicroserviceSolution) |
+| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+| [Cincy Deliver 2024](https://www.cincydeliver.org/) | July 26, 2024 | Cincinnati, OH | [Terraform: The Developer's Swiss Army Knife for Infrastructure](https://github.com/TaleLearnCode/TerraformSwissArmyKnife) |
+| [Beer City Code 2024](https://www.beercitycode.com/) | August 2, 2024 | Grand Rapids, MI | [Building Serverless Solutions with Azure and .NET (Workshop)](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
+| [Beer City Code 2024](https://www.beercitycode.com/) | August 3, 2024 | Grand Rapids, MI | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit |
+| [dev up 2024](https://www.devupconf.org/) | August 14 - 16, 2024 | St. Charles, MO | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit |
+| [dev up 2024](https://www.devupconf.org/) | August 14 - 16, 2024 | St. Charles, MO | Building Serverless Solutions with Azure and .NET |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300491256/) | August 22, 2024 | Louisville, KY | Season of AI |
+| [API Con Berlin 2024](https://apiconference.net/berlin/) | October 20 - 23, 2024 | Berlin, Germany | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
+| [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | October 20 - 23, 2024 | Berlin, Germany | [Going Schema-Less: How to Migrate a Relational Database to a NoSQL Database](https://github.com/TaleLearnCode/GoingSchemaless) |
+| [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | October 20 - 23, 2024 | Berlin, Germany | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+| [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | October 20 - 23, 2024 | Berlin, Germany | [Advanced Serverless Workshop](https://github.com/TaleLearnCode/AdvancedServerlessWorkshop) |
 
 ## 2024 Events (3 events; 7 presentations)
 | Event | Date | Location | Presentation |
