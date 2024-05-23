@@ -1,31 +1,36 @@
 # Chad Green's Speaking Engagements
 **On this page:**
-> [Upcoming Events (11 events; 17 presentations)](#upcoming-events-11-events-17-presentations)  
-> [2024 Events (3 events; 7 presentations)](#2024-events-3-events-7-presentations)  
-> [2023 Events (11events; 18 presentations)](#2023-events-11-events-18-presentations)  
-> [2022 Events (19 events; 30 presentations)](#2022-events-19-events-30-presentations)  
-> [2021 Events (22 events; 30 presentations)](#2021-events-22-events-30-presentations)  
-> [2020 Events (13 events; 19 presentations)](#2020-events-13-events-19-presentations)  
-> [2019 Events (23 events; 39 presentations)](#2019-events-23-events-39-presentations)  
-> [2018 Events (12 events; 16 presentations)](#2018-events-12-events-16-presentations)  
-> [2017 Events (4 events; 8 presentations)](#2017-events-4-events-8-presentations)  
-> [2016 Events (8 events; 16 presentations)](#2016-events-8-events-16-presentations)  
+
+> [Upcoming Events](#upcoming-events)  
+> [2024 Events](#2024-events)  
+> [2023 Events](#2023-events)  
+> [2022 Events](#2022-events)  
+> [2021 Events](#2021-events)  
+> [2020 Events](#2020-events)  
+> [2019 Events](#2019-events)  
+> [2018 Events](#2018-events)  
+> [2017 Events](#2017-events)  
+> [2016 Events](#2016-events)  
 
 **Other resources:**
+
 > [Presentations](presentations.md)   
 > [Event Submissions](event-submissions.md)   
 
 ---
 I seem to be forever rebuilding my website, but I have reached out to someone for help on the visuals and hope to have a new site up and running later in 2024. This serves as a temporary location for listing upcoming and previous events.
 
-## Upcoming Events (11 events; 17 presentations)
+## Upcoming Events
+
+12 events; 18 presentations
 
 | Event | Date | Location | Presentation |
 |---|---|---|---|
 | [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300463326/) | May 23, 2024 | Louisville .NET Meetup | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+| [Louisville Azure Meetup](https://www.meetup.com/louisville-azure-meetup/events/300314705/) | June 13, 2024 | Louisville, KY | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+| [Azure Day Roma 2024](https://azureday.it/) | June 21, 2024 | Rome, Italy | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
 | Tulsa .NET User Group | June 25, 2024 | Tulsa, OK (Online) | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
 | [Scenic City Summit 2024](https://sceniccitysummit.com/) | June 28, 2024 | Chattanooga, TN | Essential Software Design Patterns for Optimal Development |
-| [Louisville Azure Meetup](https://www.meetup.com/louisville-azure-meetup/events/300314705/) | July 11, 2024 | Louisville, KY | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
 | [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Design and Develop a Serverless Event-Driven Microservice-Based Solution](https://github.com/TaleLearnCode/DesignDevelopServerlessEventDrivenMicroserviceSolution) |
 | [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
 | [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
@@ -40,7 +45,10 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | October 20 - 23, 2024 | Berlin, Germany | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
 | [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | October 20 - 23, 2024 | Berlin, Germany | [Advanced Serverless Workshop](https://github.com/TaleLearnCode/AdvancedServerlessWorkshop) |
 
-## 2024 Events (3 events; 7 presentations)
+## 2024 Events
+
+3 Events; 7 presentations
+
 | Event | Date | Location | Presentation |
 |---|---|---|---|
 | Serverless Architecture Conference London 2024 | April 11, 2024 | London, UK | Advanced Serverless Workshop |
@@ -51,7 +59,10 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | CodeMash 2024 | January 12, 2024 | Sandusky, OH | Technical Debt Is Not Free |
 | CodeMash 2024 | January 9, 2024 | Sandusky, OH | Design and Develop a Serverless Event-Driven Microservice-based Solution |
 
-## 2023 Events (11 events; 18 presentations)
+## 2023 Events
+
+11 events; 18 presentations
+
 | Event | Date | Location | Presentation |
 |---|---|---|---|
 | TechBash 2023 | November 9, 2023 | Pocono Manor, PA | Time Travelling Data: SQL Server Temporal Tables |
@@ -73,7 +84,10 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | Visual Studio Live! Las Vegas 2023 | March 19 - 24, 2023 | Las Vegas, NV | Technical Debt Is Not Free |
 | Visual Studio Live! Las Vegas 2023 | March 19 - 24 | Las Vegas, NV | Technical Debt Is Not Free |
 
-## 2022 Events (19 events; 30 presentations)
+## 2022 Events
+
+19 events; 30 presentations
+
 | Event | Date | Location | Presentation |
 |---|---|---|---|
 | [TechBash 2022](https://techbash.com/) |  November 8 - 11, 2022 | Pocono Manor, PA | [Ch-ch-ch-changes: Tracing Changes in Azure Cosmos DB](https://github.com/TaleLearnCode/Ch-ch-ch-changes-Tracing-Changes-in-Azure-Cosmos-DB) |
@@ -108,7 +122,10 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | [CodeStock](https://www.codestock.org/) | April 7 - 8, 2022 | Knoxville, TN | [The Taming of the API](https://github.com/TaleLearnCode/TheTamingOfTheAPI) |
 | [CodeStock](https://www.codestock.org/) | April 7 - 8, 2022 | Knoxville, TN | [Building Event-Driven Microservices](https://github.com/TaleLearnCode/BuildingEventDrivenMicroservices) |
 
-## 2021 Events (22 events; 30 presentations)
+## 2021 Events
+
+22 events; 30 presentations
+
 | Event | Date | Location | Presentation |
 |---|---|---|---|
 | Glennis Solutions (Private) | December 13, 2021 | Louisville, KY | What's New for C# Developers |
@@ -142,7 +159,10 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | Columbus App Dev User Group | March 15, 2021 | Columbus, OH (online) | Delivering Real-Time Data with Azure |
 | Dallas & Austin .NET User Group Meetup | March 8, 2021 | Dallas & Austin, TX | Building a .NET Application Using Azure Cosmos DB |
 
-## 2020 Events (13 events; 19 presentations)
+## 2020 Events
+
+13 events; 19 presentations
+
 | Event | Date | Location | Presentation |
 |---|---|---|---|
 | Dallas & Austin Azure Meetup | December 15, 2020 | Dallas & Austin, TX | Event-Driven Architecture in the Cloud |
@@ -165,7 +185,10 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | Microsoft Ignite the Tour Government | February 6 - 7, 2020 | Washington, DC | The Hitchhiker's Guide to the Cosmos |
 | CodeMash v2.0.2.0. | January 8 - 11, 2020 | Sandusky, OH | Graphing Your Way Through the Cosmos |
 
-## 2019 Events (23 events; 39 presentations)
+## 2019 Events
+
+23 events; 39 presentations
+
 | Event | Date | Location | Presentation |
 |---|---|---|---|
 | TechBash | November 12 - 15, 2019 | Pocono Manor, PA | Graphing Your Way Through the Cosmos |
@@ -208,7 +231,10 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | Louisville .NET Meetup | January 17, 2019 | Louisville, KY | Azure Services Every Developer Needs to Know |
 | CodeMash v.2.0.1.9 | January 8 - 11, 2019 | Sandusky, OH | Serverless in Action |
 
-## 2018 Events (12 events; 16 presentations)
+## 2018 Events
+
+12 events; 16 presentations
+
 | Event | Date | Location | Presentation |
 |---|---|---|---|
 | Louisville .NET Meetup | December 20, 2018 | Louisville, KY | Getting Started with Azure DevOps |
@@ -228,7 +254,10 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | CodeStock | April 20 - 21, 2018 | Knoxville, TN | Delivering Real-Time Data with Azure |
 | CodeStock | April 20 - 21, 2018 | Knoxville, TN | Event-Driven Architecture in the Cloud |
 
-## 2017 Events (4 events; 8 presentations)
+## 2017 Events
+
+4 events; 8 presentations
+
 | Event | Date | Location | Presentation |
 |---|---|---|---|
 | TechBash | November 1 - 3, 2017 | Pocono Manor, PA | Delivering Real-Time Data with Azure |
@@ -240,7 +269,10 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | Code PaLOUsa | March 29 - 31, 2017 | Louisville, KY | Delivering Real-Time Data with Azure |
 | Code PaLOUsa | March 29 - 31, 2017 | Louisville, KY | Getting Started with Azure DevOps |
 
-## 2016 Events (8 events; 16 presentations)
+## 2016 Events
+
+8 events; 16 presentations
+
 | Event | Date | Location | Presentation |
 |---|---|---|---|
 | DogFoodCon | October 6 - 7, 2016 | Columbus, OH | Delivering Real-Time Data with Azure |
