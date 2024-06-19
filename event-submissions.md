@@ -16,25 +16,25 @@ If you want to see just what is pending, please check the [Pending Event Submiss
 
 | Event | Dates | Location | Submitted Session | Status |
 |---|---|---|---|---|
-| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | Dormant |
-| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Essential Software Design Patterns for Optimal Development | Dormant |
-| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Design and Develop a Serverless Event-Driven Microservice Based Solution | Dormant |
-| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Beyond Hello World: Getting Deeper into Azure Functions |  Dormant |
-| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Technical Debt Is Not Free | Dormant |
-| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Leading with Strength: Apply Marine Corps Leadership Traits to Software Development Teams | Dormant |
-| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! | Dormant |
-| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled! | Dormant |
-| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | Dormant |
-| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Essential Software Design Patterns for Optimal Development | Dormant |
-| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Design and Develop a Serverless Event-Driven Microservice Based Solution | Dormant |
-| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Beyond Hello World: Getting Deeper into Azure Functions |  Dormant |
-| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Technical Debt Is Not Free | Dormant |
-| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Leading with Strength: Apply Marine Corps Leadership Traits to Software Development Teams | Dormant |
-| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! | Dormant |
-| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled! | Dormant |
+| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | Declined |
+| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Essential Software Design Patterns for Optimal Development | Declined |
+| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Design and Develop a Serverless Event-Driven Microservice Based Solution | Declined |
+| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Beyond Hello World: Getting Deeper into Azure Functions |  Declined |
+| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Technical Debt Is Not Free | Declined |
+| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Leading with Strength: Apply Marine Corps Leadership Traits to Software Development Teams | Declined |
+| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! | Declined |
+| Visual Studio Live! Chicago 2024 | April 29 - May 3, 2024 | Chicago, IL | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled! | Declined |
+| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | Declined |
+| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Essential Software Design Patterns for Optimal Development | Declined |
+| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Design and Develop a Serverless Event-Driven Microservice Based Solution | Declined |
+| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Beyond Hello World: Getting Deeper into Azure Functions |  Declined |
+| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Technical Debt Is Not Free | Declined |
+| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Leading with Strength: Apply Marine Corps Leadership Traits to Software Development Teams | Declined |
+| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! | Declined |
+| Visual Studio Live! @ Microsoft HQ | August 5-9, 2024 | Redmond, WA | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled! | Declined |
 | Azure Day Roma 2024 | June 21, 2024 | Rome, Italy | Unleashing Extreme Scalability with Azure Functions | Accepted |
-| Azure Day Roma 2024 | June 21, 2024 | Rome, Italy | Beyond Hello World: Getting Deeper into Azure Functions | Under Review |
-| Azure Day Roma 2024 | June 21, 2024 | Rome, Italy | Terraform: The Developer's Swiss Army Knife for Infrastructure | Under Review |
+| Azure Day Roma 2024 | June 21, 2024 | Rome, Italy | Beyond Hello World: Getting Deeper into Azure Functions | Declined |
+| Azure Day Roma 2024 | June 21, 2024 | Rome, Italy | Terraform: The Developer's Swiss Army Knife for Infrastructure | Declined |
 | Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Essential Software Design Patterns for Optimal Development | Accepted |
 | Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | Declined |
 | Scenic City Summit 2024 | June 28, 2024 | Chattanooga, TN | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! | Declined |
@@ -70,16 +70,16 @@ If you want to see just what is pending, please check the [Pending Event Submiss
 | NDC TechTown 2024 | September 9 - 12, 2024 | Magazinet Kongsberg, Norway | Choosing Your Code Companion: GitHub vs Azure DevOps | Declined |
 | NDC TechTown 2024 | September 9 - 12, 2024 | Magazinet Kongsberg, Norway | Code, Connect, Conquer: Mastering Serverless and API-Centric Designs | Declined |
 | Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Terraform: The Developer's Swiss Army Knife for Infrastructure | Under Review |
-| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Azure Durable Functions for Serverless .NET Orchestration | Under Review |
-| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Choosing Your Code Companion: GitHub vs Azure DevOps | Under Review |
-| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Code, Connect, Conquer: Mastering Serverless and API API-Centric Designs | Under Review |
-| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Technical Debit Is Not Free | Under Review |
-| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Essential Software Design Patterns for Optimal Development | Under Review |
-| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | Under Review |
-| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | Under Review |
-| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Going Schema-less: How to migrate a relational database to a NoSQL database | Under Review |
-| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Architect Like a Boss: Mastering Serverless Design Patterns | Under Review |
-| TechBash 2024                      | September 24 - 27, 2024 | Pocono Manor, PA            | Beyond Hello World: Getting Deeper into Azure Functions | Accepted |
+| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Azure Durable Functions for Serverless .NET Orchestration | Accepted |
+| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Choosing Your Code Companion: GitHub vs Azure DevOps | Declined |
+| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Code, Connect, Conquer: Mastering Serverless and API API-Centric Designs | Accepted |
+| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Technical Debit Is Not Free | Declined |
+| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Essential Software Design Patterns for Optimal Development | Declined|
+| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | Declined |
+| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | Declined |
+| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Going Schema-less: How to migrate a relational database to a NoSQL database | Declined |
+| Prairie Dev Con Winnipeg | September 23-24, 2024 | Winnipeg, MB | Architect Like a Boss: Mastering Serverless Design Patterns | Declined |
+| TechBash 2024 | September 24 - 27, 2024 | Pocono Manor, PA | Beyond Hello World: Getting Deeper into Azure Functions | Accepted |
 | TechBash 2024 | September 24 - 27, 2024 | Pocono Manor, PA | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! | Declined |
 | TechBash 2024 | September 24 - 27, 2024 | Pocono Manor, PA | Essential Software Design Patterns for Optimal Development | Declined |
 | TechBash 2024 | September 24 - 27, 2024 | Pocono Manor, PA | Technical Debt Is Not Free | Accepted |
@@ -120,10 +120,10 @@ If you want to see just what is pending, please check the [Pending Event Submiss
 | Tunisia Dev Days 2024 | October 31- November 2, 2024 | Sousse, Tunisia | Essential Software Design Patterns for Optimal Development | Under Review |
 | Tunisia Dev Days 2024 | October 31- November 2, 2024 | Sousse, Tunisia | Reevaluating Software Design Patterns: Uncovering Patterns Than Can Be More Burden Than Benefit | Under Review |
 | Tunisia Dev Days 2024 | October 31- November 2, 2024 | Sousse, Tunisia | Going Schema-less: How to migrate a relational database to NoSQL database | Under Review |
-| Live! 360 Tech Con Orlando 2024 | November 17 - 22, 2024 | Orlando, FL | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled | Dormant |
-| Live! 360 Tech Con Orlando 2024 | November 17 - 22, 2024 | Orlando, FL | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! | Dormant |
-| Live! 360 Tech Con Orlando 2024 | November 17 - 22, 2024 | Orlando, FL | Essential Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | Dormant |
-| Live! 360 Tech Con Orlando 2024 | November 17 - 22, 2024 | Orlando, FL | Terraform: The Developer's Swiss Army Knife for Infrastructure | Dormant |
+| Live! 360 Tech Con Orlando 2024 | November 17 - 22, 2024 | Orlando, FL | Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled | Declined |
+| Live! 360 Tech Con Orlando 2024 | November 17 - 22, 2024 | Orlando, FL | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! | Declined |
+| Live! 360 Tech Con Orlando 2024 | November 17 - 22, 2024 | Orlando, FL | Essential Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit | Declined |
+| Live! 360 Tech Con Orlando 2024 | November 17 - 22, 2024 | Orlando, FL | Terraform: The Developer's Swiss Army Knife for Infrastructure | Declined |
 | DevOps Con Singapore 2024 | November 24-28, 2024 | Singapore | Navigating the Maze: Communicating Architecture Decisions with Azure Decision Records | Under Review |
 | DevOps Con Singapore 2024 | November 24-28, 2024 | Singapore | Choosing Your Code Companion: GitHub vs Azure DevOps | Under Review |
 | DevOps Con Singapore 2024 | November 24-28, 2024 | Singapore | Terraform: The Developer's Swiss Army Knife for Infrastructure | Under Review |
