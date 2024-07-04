@@ -26,9 +26,6 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 
 | Event | Date | Location | Presentation |
 |---|---|---|---|
-| [Azure Day Roma 2024](https://azureday.it/) | June 21, 2024 | Rome, Italy | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
-| [Tulsa .NET User Group](https://www.meetup.com/dotnet-virtual-user-group/events/301528575/) | June 25, 2024 | Tulsa, OK (Online) | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
-| [Scenic City Summit 2024](https://sceniccitysummit.com/) | June 28, 2024 | Chattanooga, TN | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
 | [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Design and Develop a Serverless Event-Driven Microservice-Based Solution](https://github.com/TaleLearnCode/DesignDevelopServerlessEventDrivenMicroserviceSolution) |
 | [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
 | [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
@@ -38,10 +35,16 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | [dev up 2024](https://www.devupconf.org/) | August 14 - 16, 2024 | St. Charles, MO | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
 | [dev up 2024](https://www.devupconf.org/) | August 14 - 16, 2024 | St. Charles, MO | [Building Serverless Solutions with Azure and .NET](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
 | [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300491256/) | August 22, 2024 | Louisville, KY | [Generative AI for .NET Developers](https://github.com/TaleLearnCode/GenerativeAIForDotNetDevelopers) |
+| [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | September 23-24, 2024 | Winnipeg, MB | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
+| [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | September 23-24, 2024 | Winnipeg, MB | [Terraform: The Developer's Swiss Army Knife for Infrastructure](https://github.com/TaleLearnCode/TerraformSwissArmyKnife) |
+| [TechBash 2024](https://www.techbash.com/) | September 24-27, 2024 | Pocono Manor, PA | [Beyond Hello World: Getting Deeper into Azure Functions](https://github.com/TaleLearnCode/GettingDeeperIntoAzureFunctions) |
+| [TechBash 2024](https://www.techbash.com/) | September 24-27, 2024 | Pocono Manor, PA | [Technical Debt Is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
 | [API Con Berlin 2024](https://apiconference.net/berlin/) | October 20 - 23, 2024 | Berlin, Germany | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
 | [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | October 20 - 23, 2024 | Berlin, Germany | [Going Schema-Less: How to Migrate a Relational Database to a NoSQL Database](https://github.com/TaleLearnCode/GoingSchemaless) |
 | [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | October 20 - 23, 2024 | Berlin, Germany | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
 | [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | October 20 - 23, 2024 | Berlin, Germany | [Advanced Serverless Workshop](https://github.com/TaleLearnCode/AdvancedServerlessWorkshop) |
+| [Update Conference Prague 2024](https://www.updateconference.net/) | November 14-15, 2024 | Prague, Czech Republic | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/ServerlessOrchestration) |
+| [Update Conference Prague 2024](https://www.updateconference.net/) | November 14-15, 2024 | Prague, Czech Republic | [https://github.com/TaleLearnCode/GoingSchemaless](https://github.com/TaleLearnCode/GoingSchemaless) |
 
 ## 2024 Events
 
@@ -49,6 +52,9 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 
 | Event | Date | Location | Presentation |
 |---|---|---|---|
+| [Azure Day Roma 2024](https://azureday.it/) | June 21, 2024 | Rome, Italy | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
+| [Tulsa .NET User Group](https://www.meetup.com/dotnet-virtual-user-group/events/301528575/) | June 25, 2024 | Tulsa, OK (Online) | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
+| [Azure Day Roma 2024](https://azureday.it/) | June 21, 2024 | Rome, Italy | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
 | [Louisville Azure Meetup](https://www.meetup.com/louisville-azure-meetup/events/300314705/) | June 13, 2024 | Louisville, KY | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
 | [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300463326/) | May 23, 2024 | Louisville .NET Meetup | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
 | Serverless Architecture Conference London 2024 | April 11, 2024 | London, UK | Advanced Serverless Workshop |
