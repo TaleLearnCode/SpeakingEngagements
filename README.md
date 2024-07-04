@@ -22,7 +22,7 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 
 ## Upcoming Events
 
-10 events; 16 presentations
+10 events; 19 presentations
 
 | Event | Date | Location | Presentation |
 |---|---|---|---|
@@ -35,6 +35,7 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | [dev up 2024](https://www.devupconf.org/) | August 14 - 16, 2024 | St. Charles, MO | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
 | [dev up 2024](https://www.devupconf.org/) | August 14 - 16, 2024 | St. Charles, MO | [Building Serverless Solutions with Azure and .NET](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
 | [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300491256/) | August 22, 2024 | Louisville, KY | [Generative AI for .NET Developers](https://github.com/TaleLearnCode/GenerativeAIForDotNetDevelopers) |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/301867396/) | September 18, 2024 | Louisville, KY | Let's Learn .NET Aspire |
 | [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | September 23-24, 2024 | Winnipeg, MB | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
 | [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | September 23-24, 2024 | Winnipeg, MB | [Terraform: The Developer's Swiss Army Knife for Infrastructure](https://github.com/TaleLearnCode/TerraformSwissArmyKnife) |
 | [TechBash 2024](https://www.techbash.com/) | September 24-27, 2024 | Pocono Manor, PA | [Beyond Hello World: Getting Deeper into Azure Functions](https://github.com/TaleLearnCode/GettingDeeperIntoAzureFunctions) |
@@ -48,7 +49,7 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 
 ## 2024 Events
 
-5 Events; 9 presentations
+7 Events; 10 presentations
 
 | Event | Date | Location | Presentation |
 |---|---|---|---|
@@ -62,8 +63,8 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | Michigan Technology Conference 2024 | March 22, 2024 | Pontiac, MI | File New: Build a Fully-Managed and Documented API |
 | Michigan Technology Conference 2024 | March 21, 2024 | Pontiac, MI | Technical Debt Is Not Free |
 | Michigan Technology Conference 2024 | March 21, 2024 | Pontiac, MI | Reevaluating Software Design Pattern: Uncovering Patterns That Can Be More Burden Than Benefit |
-| CodeMash 2024 | January 12, 2024 | Sandusky, OH | Technical Debt Is Not Free |
-| CodeMash 2024 | January 9, 2024 | Sandusky, OH | Design and Develop a Serverless Event-Driven Microservice-based Solution |
+| CodeMash 2024 (canceled) | January 12, 2024 | Sandusky, OH | Technical Debt Is Not Free |
+| CodeMash 2024 (canceled) | January 9, 2024 | Sandusky, OH | Design and Develop a Serverless Event-Driven Microservice-based Solution |
 
 ## 2023 Events
 
