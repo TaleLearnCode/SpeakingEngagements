@@ -22,7 +22,7 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 
 ## Upcoming Events
 
-10 events; 19 presentations
+11 events; 20 presentations
 
 | Event | Date | Location | Presentation |
 |---|---|---|---|
