@@ -22,16 +22,10 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 
 ## Upcoming Events
 
-11 events; 20 presentations
+8 events; 14 presentations
 
 | Event | Date | Location | Presentation |
 |---|---|---|---|
-| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Design and Develop a Serverless Event-Driven Microservice-Based Solution](https://github.com/TaleLearnCode/DesignDevelopServerlessEventDrivenMicroserviceSolution) |
-| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
-| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
-| [Cincy Deliver 2024](https://www.cincydeliver.org/) | July 26, 2024 | Cincinnati, OH | [Terraform: The Developer's Swiss Army Knife for Infrastructure](https://github.com/TaleLearnCode/TerraformSwissArmyKnife) |
-| [Beer City Code 2024](https://www.beercitycode.com/) | August 2, 2024 | Grand Rapids, MI | [Building Serverless Solutions with Azure and .NET (Workshop)](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
-| [Beer City Code 2024](https://www.beercitycode.com/) | August 3, 2024 | Grand Rapids, MI | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
 | [dev up 2024](https://www.devupconf.org/) | August 14 - 16, 2024 | St. Charles, MO | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
 | [dev up 2024](https://www.devupconf.org/) | August 14 - 16, 2024 | St. Charles, MO | [Building Serverless Solutions with Azure and .NET](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
 | [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300491256/) | August 22, 2024 | Louisville, KY | [Generative AI for .NET Developers](https://github.com/TaleLearnCode/GenerativeAIForDotNetDevelopers) |
@@ -45,15 +39,21 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | October 20 - 23, 2024 | Berlin, Germany | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
 | [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | October 20 - 23, 2024 | Berlin, Germany | [Advanced Serverless Workshop](https://github.com/TaleLearnCode/AdvancedServerlessWorkshop) |
 | [Update Conference Prague 2024](https://www.updateconference.net/) | November 14-15, 2024 | Prague, Czech Republic | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/ServerlessOrchestration) |
-| [Update Conference Prague 2024](https://www.updateconference.net/) | November 14-15, 2024 | Prague, Czech Republic | [https://github.com/TaleLearnCode/GoingSchemaless](https://github.com/TaleLearnCode/GoingSchemaless) |
+| [Update Conference Prague 2024](https://www.updateconference.net/) | November 14-15, 2024 | Prague, Czech Republic | [Going Schema-less: How to migrate a relational database to a NoSQL database](https://github.com/TaleLearnCode/GoingSchemaless) |
 
 ## 2024 Events
 
-7 Events; 10 presentations
+9 Events; 16 presentations (1 canceled event; 2 canceled presentations)
 
 | Event | Date | Location | Presentation |
 |---|---|---|---|
-| [Azure Day Roma 2024](https://azureday.it/) | June 21, 2024 | Rome, Italy | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
+| [Beer City Code 2024](https://www.beercitycode.com/) | August 3, 2024 | Grand Rapids, MI | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+| [Beer City Code 2024](https://www.beercitycode.com/) | August 3, 2024 | Grand Rapids, MI | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
+| [Beer City Code 2024](https://www.beercitycode.com/) | August 2, 2024 | Grand Rapids, MI | [Building Serverless Solutions with Azure and .NET (Workshop)](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
+| [Cincy Deliver 2024](https://www.cincydeliver.org/) | July 26, 2024 | Cincinnati, OH | [Terraform: The Developer's Swiss Army Knife for Infrastructure](https://github.com/TaleLearnCode/TerraformSwissArmyKnife) |
+| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Design and Develop a Serverless Event-Driven Microservice-Based Solution](https://github.com/TaleLearnCode/DesignDevelopServerlessEventDrivenMicroserviceSolution) |
 | [Tulsa .NET User Group](https://www.meetup.com/dotnet-virtual-user-group/events/301528575/) | June 25, 2024 | Tulsa, OK (Online) | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
 | [Azure Day Roma 2024](https://azureday.it/) | June 21, 2024 | Rome, Italy | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
 | [Louisville Azure Meetup](https://www.meetup.com/louisville-azure-meetup/events/300314705/) | June 13, 2024 | Louisville, KY | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
