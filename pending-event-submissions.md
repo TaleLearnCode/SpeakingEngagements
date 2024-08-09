@@ -15,7 +15,9 @@ I am utilizing this page to track my event submissions. Primarily, it serves my 
 
 This page contains the pending event submissions—events that I have submitted and am still waiting to hear back from. See the main [Event Submissions](event-submissions.md) page for all of my submissions.
 
-## 2024 (5 events/26 submissions)
+## 2024
+
+1 event / 4 submissions
 
 | Event                              | Dates                   | Location                    | Submitted Session                                            | Status        |
 | ---------------------------------- | ----------------------- | --------------------------- | ------------------------------------------------------------ | ------------- |
