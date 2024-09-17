@@ -26,9 +26,6 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 
 | Event                                                        | Date(s)               | Location               | Presentation(s)                                              |
 | ------------------------------------------------------------ | --------------------- | ---------------------- | ------------------------------------------------------------ |
-| [dev up 2024](https://www.devupconf.org/)                    | August 14 - 16, 2024  | St. Charles, MO        | [Building Serverless Solutions with Azure and .NET (workshop)](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
-|                                                              |                       |                        | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
-| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300491256/) | August 22, 2024       | Louisville, KY         | [Generative AI for .NET Developers](https://github.com/TaleLearnCode/GenerativeAIForDotNetDevelopers) |
 | [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/301867396/) | September 18, 2024    | Louisville, KY         | Let's Learn .NET Aspire                                      |
 | [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | September 23-24, 2024 | Winnipeg, MB           | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
 |                                                              |                       |                        | [Terraform: The Developer's Swiss Army Knife for Infrastructure](https://github.com/TaleLearnCode/TerraformSwissArmyKnife) |
@@ -47,6 +44,9 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 
 | Event | Location | Date | Presentation |
 |---|---|---|---|
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300491256/) | August 22, 2024       | Louisville, KY         | [Generative AI for .NET Developers](https://github.com/TaleLearnCode/GenerativeAIForDotNetDevelopers) |
+| [dev up 2024](https://www.devupconf.org/)                    | August 14 - 16, 2024  | St. Charles, MO        | [Building Serverless Solutions with Azure and .NET (workshop)](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
+|                                                              |                       |                        | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
 | [Beer City Code 2024](https://www.beercitycode.com/) | Grand Rapids, MI | August 3, 2024 | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
 |  |  | August 3, 2024 | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
 |  |  | August 2, 2024 | [Building Serverless Solutions with Azure and .NET (Workshop)](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
