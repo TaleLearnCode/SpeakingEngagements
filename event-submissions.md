@@ -12,6 +12,117 @@ I am utilizing this page to track my event submissions. Primarily, it serves my 
 
 If you want to see just what is pending, please check the [Pending Event Submissions](pending-event-submissions.md) page.
 
+## 2025
+
+| Event                                                        | Dates                  | Locations            | Submitted Session                                            | Status        |
+| ------------------------------------------------------------ | ---------------------- | -------------------- | ------------------------------------------------------------ | ------------- |
+| [Agile Meets Architecture 2025](https://www.agile-meets-architecture.com/2025/home) | April 3-4, 2025        | Berlin, Germany      | Navigating the Maze: Communicating Architecture Decision Records | Declined      |
+|                                                              |                        |                      | Architect Like a Boss: Mastering Serverless Design Patterns  | Declined      |
+| [Rome .NET Conference 2025](https://www.dotnetconf.it/)      | April 11, 2025         | Rome, Italy          | Azure Durable Functions for Serverless .NET Orchestration    | Pending       |
+|                                                              |                        |                      | Embracing Azure Container Apps for Streamlined DevOps        | Pending       |
+|                                                              |                        |                      | In Defense of Microservices                                  | Pending       |
+| [Atlanta Cloud Conference 2025](https://atlcloudconf.com/)   | April 26, 2025         | Marietta, GA         | Messaging Patterns to Transform Your Cloud Architecture      | Pending       |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | Pending       |
+|                                                              |                        |                      | Embracing Azure Container Apps for Streamlined DevOps        | Pending       |
+| [NDC Melbourne 2025](https://ndcmelbourne.com/)              | April 29 - May 1, 2025 | Melbourne, Australia | Unlick the Power of Messaging Patterns                       | Declined      |
+|                                                              |                        |                      | Transform Your Cloud Architecture with these Messaging Patterns | Declined      |
+|                                                              |                        |                      | Building an Event-Driven Microservice from Scratch           | Declined      |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | Declined      |
+| [Stir Trek](https://stirtrek.com/)                           | May 2, 2025            | Columbus, OH         | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | Accepted      |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | In Evaluation |
+|                                                              |                        |                      | In Defense of Microservices                                  | Declined      |
+|                                                              |                        |                      | Messaging Patterns to Transform Your Cloud Architecture      | Declined      |
+|                                                              |                        |                      | Code, Connect, Conquer: Mastering Serverless and API Centric Designs | Declined      |
+| dotnetdays                                                   | May 6-8, 2025          | Iaşi, Romania        | Unlock the Power of Messaging Patterns                       | Declined      |
+|                                                              |                        |                      | Transform Your Cloud Architecture with These Messaging Patterns | Declined      |
+|                                                              |                        |                      | Building an Event-Driven Microservice                        | Declined      |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | Declined      |
+|                                                              |                        |                      | Beyond Hello World: Getting Deeper int Azure Functions       | Declined      |
+| SDD 2025                                                     | May 12-16, 2025        | London, UK           | Unlock the Power of Messaging Patterns                       | Declined      |
+|                                                              |                        |                      | Transform Your Cloud Architecture with These Messaging Patterns | Declined      |
+|                                                              |                        |                      | Building an Event Driven Microservice from Scratch           | Declined      |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | Declined      |
+|                                                              |                        |                      | Code, Connect, Conquer: Mastering Serverless and API Centric Designs | Declined      |
+|                                                              |                        |                      | Essential Software Design Patterns for Optimal Development   | Declined      |
+|                                                              |                        |                      | The Dark Side of Design Patterns: What They Don't Tell You   | Declined      |
+| NCD Oslo 2025                                                | May 19 - 23, 2025      | Oslo, Norway         | Building Scalable and Responsive Systems with Event-Driven Architecture | Declined      |
+|                                                              |                        |                      | Transform Your Cloud Architecture with These Messaging Patterns | Declined      |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | Declined      |
+|                                                              |                        |                      | Going Schema-less: How to migrate a relational database to a NoSQL database | Declined      |
+| [Nebraska.Code() 2025](https://nebraskacode.amegala.com/)    | July 23-25, 2025       | Lincoln, NE          | In Defense of Microservices                                  | In Evaluation |
+|                                                              |                        |                      | Unlock the Power of Messaging Patterns                       | In Evaluation |
+|                                                              |                        |                      | Messaging Patterns to Transform Your Cloud Architecture      | In Evaluation |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | In Evaluation |
+|                                                              |                        |                      | Navigating the Maze: Communicating Azure Decisions with Architecture Decisions Records | In Evaluation |
+|                                                              |                        |                      | Going Schema-less: How to migrate a relational database to a NoSQL database | In Evaluation |
+|                                                              |                        |                      | Other Duties as Assigned                                     | In Evaluation |
+|                                                              |                        |                      | Embracing Azure Container Apps for Streamlined DevOps        | In Evaluation |
+| Visual Studio Live! Microsoft HQ                             | August 4 - 8, 2025     | Redmon, WA           | Unlock the Power of Messaging Patterns                       | Declined      |
+|                                                              |                        |                      | Transform Your Cloud Architecture with These Messaging Patterns | Declined      |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | Declined      |
+|                                                              |                        |                      | The Hitchhiker's Guide to the Cosmos                         | Declined      |
+|                                                              |                        |                      | Going Schema-less: How to migrate a relational database to a NoSQL database | Declined      |
+|                                                              |                        |                      | Beyond Hello World: Getting Deeper into Azure Functions      | Declined      |
+|                                                              |                        |                      | Ch-ch-ch-changes: Tracing Changes in Azure Cosmos DB         | Declined      |
+|                                                              |                        |                      | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | Declined      |
+|                                                              |                        |                      | Technical Debt Is Not Free                                   | Declined      |
+|                                                              |                        |                      | Secrets of Conflict Resolution                               | Declined      |
+|                                                              |                        |                      | DevOps Best Practices for Cloud Environments with Azure      | Declined      |
+|                                                              |                        |                      | Journey, Stories, and Lessons Learned in DevOps with Azure   | Declined      |
+|                                                              |                        |                      | Embracing Azure Container Apps for Streamlined DevOps        | Declined      |
+| dev up                                                       | August 6 - 8, 2025     | St. Charles, MO      | Unlock the Power of Messaging Patterns                       | In Evaluation |
+|                                                              |                        |                      | In Defense of Microservices                                  | In Evaluation |
+|                                                              |                        |                      | Messaging Patterns to Transform Your Cloud Architecture      | In Evaluation |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | In Evaluation |
+|                                                              |                        |                      | Embracing Azure Container Apps for Streamlined DevOps        | In Evaluation |
+|                                                              |                        |                      | Beyond Hello World: Getting Deeper into Azure Functions      | In Evaluation |
+|                                                              |                        |                      | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | In Evaluation |
+| [Beer City Code 2025](https://beercitycode.com/)             | August 8 - 9, 2025     | Grand Rapids, MI     | Unlock the Power of Messaging Patterns                       | In Evaluation |
+|                                                              |                        |                      | In Defense of Microservices                                  | In Evaluation |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | In Evaluation |
+|                                                              |                        |                      | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | In Evaluation |
+|                                                              |                        |                      | Embracing Azure Container Apps for Streamlined DevOps        | In Evaluation |
+| TechMentor @ Microsoft HQ 2025                               | August 11 - 15, 2025   | Redmond, WA          | Unlock the Power of Messaging Patterns                       | Declined      |
+|                                                              |                        |                      | Transform Your Cloud Architecture with These Messaging Patterns | Declined      |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | Declined      |
+|                                                              |                        |                      | The Hitchhiker's Guide to the Cosmos                         | Declined      |
+|                                                              |                        |                      | Going Schema-less: How to migrate a relational database to a NoSQL database | Declined      |
+|                                                              |                        |                      | Beyond Hello World: Getting Deeper into Azure Functions      | Declined      |
+|                                                              |                        |                      | Ch-ch-ch-changes: Tracing Changes in Azure Cosmos DB         | Declined      |
+|                                                              |                        |                      | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | Declined      |
+|                                                              |                        |                      | Technical Debt Is Not Free                                   | Declined      |
+|                                                              |                        |                      | Secrets of Conflict Resolution                               | Declined      |
+| [KCDC 2025](http://www.kcdc.info/)                           | August 13 - 15, 2025   | Kansas City, MO      | Unlock the Power of Messaging Patterns                       | In Evaluation |
+|                                                              |                        |                      | One Day, Four Architectures: Hands-On with Monolith, N-Tier, Modular Monolith, and Microservices | In Evaluation |
+|                                                              |                        |                      | In Defense of Microservices                                  | In Evaluation |
+|                                                              |                        |                      | Messaging Patterns to Transform Your Cloud Architecture      | In Evaluation |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | In Evaluation |
+|                                                              |                        |                      | Code, Connect, Conquer: Mastering Serverless and API Centric Designs | In Evaluation |
+|                                                              |                        |                      | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | In Evaluation |
+|                                                              |                        |                      | Going Schema-less: How to migrate a relational database to a NoSQL database | In Evaluation |
+|                                                              |                        |                      | Embracing Azure Container Apps for Streamlined DevOps        | In Evaluation |
+|                                                              |                        |                      | The Hitchhiker's Guide to the Cosmos                         | In Evaluation |
+| [DevOps Midwest 2025](http://www.devopsmidwest.com/)         | September 18, 2025     | St. Louis, MO        | Technical Debt Is Not Free                                   | In Evaluation |
+|                                                              |                        |                      | Terraform: The Developer's Swiss Army Knife for Infrastructure | In Evaluation |
+|                                                              |                        |                      | DevOps Best Practices for Cloud Environments with Azure      | In Evaluation |
+|                                                              |                        |                      | Embracing Azure Container Apps for Streamlined DevOps        | In Evaluation |
+|                                                              |                        |                      | Choosing Your Code Companion: GitHub vs Azure DevOps         | In Evaluation |
+| [TDC 2025](https://2025.trondheimdc.no/)                     | October 20, 2025       | Trondheim, Norway    | Messaging Patterns to transform Your Cloud Architecture      | In Evaluation |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | In Evaluation |
+|                                                              |                        |                      | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | In Evaluation |
+|                                                              |                        |                      | Going Schema-less: How to migrate a relational database to a NoSQL database | In Evaluation |
+|                                                              |                        |                      | Embracing Azure Container Apps for Streamlined DevOps        | In Evaluation |
+|                                                              |                        |                      | In Defense of Microservices                                  | In Evaluation |
+| [Øredev 2025](http://oredev.org/)                            | November 5 - 7, 2025   | Malmö, Sweden        | Messaging Patterns to Transform Your Cloud Archiecture       | In Evaluation |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | In Evaluation |
+| [Tunisia Dev Days 2025](https://tunisiadevdays.net/)         | November 7 - 8, 2025   | Tunis, Tunisia       | One Day, Four Architectures: Hands-On with Monolith, N-Tier, Modular Monolith, and Microservices | In Evaluation |
+|                                                              |                        |                      | In Defense of Microservices                                  | In Evaluation |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | In Evaluation |
+|                                                              |                        |                      | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | In Evaluation |
+|                                                              |                        |                      | The Dark Side of Design Patterns: What They Don't Tell You   | In Evaluation |
+
+
+
 ## 2024
 
 | Event | Dates | Location | Submitted Session | Status |

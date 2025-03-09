@@ -2,6 +2,7 @@
 **On this page:**
 
 > [Upcoming Events](#upcoming-events)  
+> [2025 Events](#2025-events)  
 > [2024 Events](#2024-events)  
 > [2023 Events](#2023-events)  
 > [2022 Events](#2022-events)  
@@ -18,53 +19,69 @@
 > [Event Submissions](event-submissions.md)   
 
 ---
-I seem to be forever rebuilding my website, but I have reached out to someone for help on the visuals and hope to have a new site up and running later in 2024. This serves as a temporary location for listing upcoming and previous events.
+I seem to be forever rebuilding my website, but I have reached out to someone for help on the visuals and hope to have a new site up and running later in 2025. This serves as a temporary location for listing upcoming and previous events.
 
 ## Upcoming Events
 
-8 events; 14 presentations
+2 events; 3 presentations
 
-| Event                                                        | Date(s)               | Location               | Presentation(s)                                              |
-| ------------------------------------------------------------ | --------------------- | ---------------------- | ------------------------------------------------------------ |
-| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/301867396/) | September 18, 2024    | Louisville, KY         | Let's Learn .NET Aspire                                      |
-| [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | September 23-24, 2024 | Winnipeg, MB           | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
-|                                                              |                       |                        | [Terraform: The Developer's Swiss Army Knife for Infrastructure](https://github.com/TaleLearnCode/TerraformSwissArmyKnife) |
-| [TechBash 2024](https://www.techbash.com/)                   | September 24-27, 2024 | Pocono Manor, PA       | [Beyond Hello World: Getting Deeper into Azure Functions](https://github.com/TaleLearnCode/GettingDeeperIntoAzureFunctions) |
-|                                                              |                       |                        | [Technical Debt Is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
-| [API Con Berlin 2024](https://apiconference.net/berlin/)     | October 20 - 23, 2024 | Berlin, Germany        | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
-| [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | October 20 - 23, 2024 | Berlin, Germany        | [Advanced Serverless Workshop](https://github.com/TaleLearnCode/AdvancedServerlessWorkshop) |
-|                                                              |                       |                        | [Going Schema-Less: How to Migrate a Relational Database to a NoSQL Database](https://github.com/TaleLearnCode/GoingSchemaless) |
-|                                                              |                       |                        | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
-| [Update Conference Prague 2024](https://www.updateconference.net/) | November 14-15, 2024  | Prague, Czech Republic | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/ServerlessOrchestration) |
-|                                                              |                       |                        | [Going Schema-less: How to migrate a relational database to a NoSQL database](https://github.com/TaleLearnCode/GoingSchemaless) |
+| Event                                                        | Date(s)              | Location      | Presentation(s)                                              |
+| ------------------------------------------------------------ | -------------------- | ------------- | ------------------------------------------------------------ |
+| [Stir Trek](https://stirtrek.com/speakers/2025/Chad-Green.html) | May 2, 2025          | Columbus, OH  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [Visual Studio Live!](https://vslive.com/events/san-diego-2025/home.aspx) | September 8-12, 2025 | San Diego, CA | [Technical Debt is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
+|                                                              | September 8-12, 2025 | San Diego, CA | [Secrets of Conflict Resolution](https://github.com/TaleLearnCode/SecretsOfConflictResolution) |
+
+## 2025 Events
+
+1 Events; 3 presentations
+
+| Event                                                        | Date                  | Location     | Presentation                                                 |
+| ------------------------------------------------------------ | --------------------- | ------------ | ------------------------------------------------------------ |
+| [Conf42 Cloud Native 2025](https://www.conf42.com/Cloud_Native_2025_Chad_Green_microservices_architecture_defense) | March 6, 2025         | VOD          | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
+| [CodeMash](https://codemash.org/)                            | January 14 - 17, 2025 | Sandusky, OH | [Unlock the Power of Messaging Patterns](https://github.com/TaleLearnCode/UnlockThePowerOfMessagingPatterns) |
+|                                                              | January 14 - 17, 2025 | Sandusky, OH | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
+|                                                              | January 14 - 17, 2025 | Sandusky, OH | [The Magic of the Cloud: How the Internet Works](https://github.com/TaleLearnCode/MagicOfCloud) |
 
 ## 2024 Events
 
-9 Events; 16 presentations (1 canceled event; 2 canceled presentations)
+19 Events; 33 presentations (1 canceled event; 2 canceled presentations)
 
-| Event | Location | Date | Presentation |
+| Event | Date | Location | Presentation |
 |---|---|---|---|
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/304277527/) | November 21, 2024 | Louisville, KY | [Highlights from .NET Conf  and Ignite](https://www.meetup.com/louisville-dotnet/events/304277527/) |
+| [Update Conference Prague 2024](https://www.updateconference.net/) | November 14-15, 2024 | Prague, Czech Republic | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/ServerlessOrchestration) |
+|  | November 14-15, 2024 | Prague, Czech Republic | [Going Schema-less: How to migrate a relational database to a NoSQL database](https://github.com/TaleLearnCode/GoingSchemaless) |
+| [API Con Berlin 2024](https://apiconference.net/berlin/) | October 23, 2024 | Berlin, Germany | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
+| [Serverless Architecture Conference Berlin 2024](https://serverless-architecture.io/berlin/) | October 21, 2024 | Berlin, Germany | [Advanced Serverless Workshop](https://github.com/TaleLearnCode/AdvancedServerlessWorkshop) |
+|  | October 21, 2024 | Berlin, Germany | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+|  | October 21, 2024 | Berlin, Germany | [Going Schema-Less: How to Migrate a Relational Database to a NoSQL Database](https://github.com/TaleLearnCode/GoingSchemaless) |
+| [Momentum Developers Conference](https://momentumdevcon.com/) | October 17, 2024 | Cincinnati, OH | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [TechBash 2024](https://www.techbash.com/)                   | September 24-27, 2024 | Pocono Manor, PA       | [Beyond Hello World: Getting Deeper into Azure Functions](https://github.com/TaleLearnCode/GettingDeeperIntoAzureFunctions) |
+|                                                              | September 24-27, 2024 | Pocono Manor, PA | [Technical Debt Is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
+| [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | September 23-24, 2024 | Winnipeg, MB           | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
+|                                                              | September 23-24, 2024 | Winnipeg, MB | [Terraform: The Developer's Swiss Army Knife for Infrastructure](https://github.com/TaleLearnCode/TerraformSwissArmyKnife) |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/301867396/) | September 19, 2024    | Louisville, KY         | Let's Learn .NET Aspire                                      |
 | [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300491256/) | August 22, 2024       | Louisville, KY         | [Generative AI for .NET Developers](https://github.com/TaleLearnCode/GenerativeAIForDotNetDevelopers) |
 | [dev up 2024](https://www.devupconf.org/)                    | August 14 - 16, 2024  | St. Charles, MO        | [Building Serverless Solutions with Azure and .NET (workshop)](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
-|                                                              |                       |                        | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
-| [Beer City Code 2024](https://www.beercitycode.com/) | Grand Rapids, MI | August 3, 2024 | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
-|  |  | August 3, 2024 | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
-|  |  | August 2, 2024 | [Building Serverless Solutions with Azure and .NET (Workshop)](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
-| [Cincy Deliver 2024](https://www.cincydeliver.org/) | Cincinnati, OH | July 26, 2024 | [Terraform: The Developer's Swiss Army Knife for Infrastructure](https://github.com/TaleLearnCode/TerraformSwissArmyKnife) |
-| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | Lincoln, NE | July 17-19, 2024 | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
-|  |  | July 17-19, 2024 | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
-|  |  | July 17-19, 2024 | [Design and Develop a Serverless Event-Driven Microservice-Based Solution](https://github.com/TaleLearnCode/DesignDevelopServerlessEventDrivenMicroserviceSolution) |
-| [Tulsa .NET User Group](https://www.meetup.com/dotnet-virtual-user-group/events/301528575/) | Tulsa, OK (Online) | June 25, 2024 | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
-| [Azure Day Roma 2024](https://azureday.it/) | Rome, Italy | June 21, 2024 | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
-| [Louisville Azure Meetup](https://www.meetup.com/louisville-azure-meetup/events/300314705/) | Louisville, KY | June 13, 2024 | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
-| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300463326/) | Louisville .NET Meetup | May 23, 2024 | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
-| Serverless Architecture Conference London 2024 | London, UK | April 11, 2024 | Advanced Serverless Workshop |
-|  |  | April 9, 2024 | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! |
-| Michigan Technology Conference 2024 | Pontiac, MI | March 22, 2024 | File New: Build a Fully-Managed and Documented API |
-|  |  | March 21, 2024 | Technical Debt Is Not Free |
-|  |  | March 21, 2024 | Reevaluating Software Design Pattern: Uncovering Patterns That Can Be More Burden Than Benefit |
-| CodeMash 2024 (canceled) | Sandusky, OH | January 12, 2024 | Technical Debt Is Not Free |
-|  |  | January 9, 2024 | Design and Develop a Serverless Event-Driven Microservice-based Solution |
+|                                                              | August 14 - 16, 2024 | St. Charles, MO | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
+| [Beer City Code 2024](https://www.beercitycode.com/) | August 3, 2024 | Grand Rapids, MI | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+|  | August 3, 2024 | Grand Rapids, MI | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
+|  | August 3, 2024 | Grand Rapids, MI | [Building Serverless Solutions with Azure and .NET (Workshop)](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
+| [Cincy Deliver 2024](https://www.cincydeliver.org/) | July 26, 2024 | Cincinnati, OH | [Terraform: The Developer's Swiss Army Knife for Infrastructure](https://github.com/TaleLearnCode/TerraformSwissArmyKnife) |
+| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | July 17-19, 2024 | Lincoln, NE | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+|  | July 17-19, 2024 | Lincoln, NE | [Architect Like a Boss: Mastering Serverless Design Patterns](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+|  | July 17-19, 2024 | Lincoln, NE | [Design and Develop a Serverless Event-Driven Microservice-Based Solution](https://github.com/TaleLearnCode/DesignDevelopServerlessEventDrivenMicroserviceSolution) |
+| [Tulsa .NET User Group](https://www.meetup.com/dotnet-virtual-user-group/events/301528575/) | June 25, 2024 | Tulsa, OK (Online) | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
+| [Azure Day Roma 2024](https://azureday.it/) | June 21, 2024 | Rome, Italy | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
+| [Louisville Azure Meetup](https://www.meetup.com/louisville-azure-meetup/events/300314705/) | June 13, 2024 | Louisville, KY | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300463326/) | May 23, 2024 | Louisville .NET Meetup | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+| Serverless Architecture Conference London 2024 | April 11, 2024        | London, UK | Advanced Serverless Workshop |
+|  | April 9, 2024 | London, UK | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! |
+| Michigan Technology Conference 2024 | March 22, 2024 | Pontiac, MI | File New: Build a Fully-Managed and Documented API |
+|  | March 21, 2024 | Pontiac, MI | Technical Debt Is Not Free |
+|  | March 21, 2024 | Pontiac, MI | Reevaluating Software Design Pattern: Uncovering Patterns That Can Be More Burden Than Benefit |
+| CodeMash 2024 (canceled) | January 12, 2024 | Sandusky, OH | Technical Debt Is Not Free |
+|  | January 9, 2024 | Sandusky, OH | Design and Develop a Serverless Event-Driven Microservice-based Solution |
 
 ## 2023 Events
 
