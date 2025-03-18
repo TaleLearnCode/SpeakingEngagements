@@ -23,24 +23,26 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 
 ## Upcoming Events
 
-2 events; 3 presentations
+3 events; 5 presentations
 
-| Event                                                        | Date(s)              | Location      | Presentation(s)                                              |
-| ------------------------------------------------------------ | -------------------- | ------------- | ------------------------------------------------------------ |
-| [Stir Trek](https://stirtrek.com/speakers/2025/Chad-Green.html) | May 2, 2025          | Columbus, OH  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
-| [Visual Studio Live!](https://vslive.com/events/san-diego-2025/home.aspx) | September 8-12, 2025 | San Diego, CA | [Technical Debt is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
-|                                                              | September 8-12, 2025 | San Diego, CA | [Secrets of Conflict Resolution](https://github.com/TaleLearnCode/SecretsOfConflictResolution) |
+| Event                                                        | Date(s)              | Location         | Presentation(s)                                              |
+| ------------------------------------------------------------ | -------------------- | ---------------- | ------------------------------------------------------------ |
+| [Beer City Code](https://www.beercitycode.com/)              | August 8 - 9, 2025   | Grand Rapids, MI | [](https://github.com/TaleLearnCode/ServerlessOrchestration) |
+|                                                              |                      |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [Stir Trek](https://stirtrek.com/speakers/2025/Chad-Green.html) | May 2, 2025          | Columbus, OH     | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [Visual Studio Live!](https://vslive.com/events/san-diego-2025/home.aspx) | September 8-12, 2025 | San Diego, CA    | [Technical Debt is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
+|                                                              | September 8-12, 2025 | San Diego, CA    | [Secrets of Conflict Resolution](https://github.com/TaleLearnCode/SecretsOfConflictResolution) |
 
 ## 2025 Events
 
 1 Events; 3 presentations
 
-| Event                                                        | Date                  | Location     | Presentation                                                 |
-| ------------------------------------------------------------ | --------------------- | ------------ | ------------------------------------------------------------ |
-| [Conf42 Cloud Native 2025](https://www.conf42.com/Cloud_Native_2025_Chad_Green_microservices_architecture_defense) | March 6, 2025         | VOD          | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
-| [CodeMash](https://codemash.org/)                            | January 14 - 17, 2025 | Sandusky, OH | [Unlock the Power of Messaging Patterns](https://github.com/TaleLearnCode/UnlockThePowerOfMessagingPatterns) |
-|                                                              | January 14 - 17, 2025 | Sandusky, OH | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
-|                                                              | January 14 - 17, 2025 | Sandusky, OH | [The Magic of the Cloud: How the Internet Works](https://github.com/TaleLearnCode/MagicOfCloud) |
+| Event                                                        | Date                  | Location       | Presentation                                                 |
+| ------------------------------------------------------------ | --------------------- | -------------- | ------------------------------------------------------------ |
+| [TALK's AI Think Tank](https://talklou.com/?p=3100)          | March 6, 2025         | Louisville, KY | Hello, Computer? Embracing AI in Modern Development          |
+| [Conf42 Cloud Native 2025](https://www.conf42.com/Cloud_Native_2025_Chad_Green_microservices_architecture_defense) | March 6, 2025         | VOD            | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
+| [CodeMash](https://codemash.org/)                            | January 14 - 17, 2025 | Sandusky, OH   | [Unlock the Power of Messaging Patterns](https://github.com/TaleLearnCode/UnlockThePowerOfMessagingPatterns) |
+|                                                              | January 14 - 17, 2025 | Sandusky, OH   | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
 
 ## 2024 Events
 
@@ -61,9 +63,10 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 | [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | September 23-24, 2024 | Winnipeg, MB           | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
 |                                                              | September 23-24, 2024 | Winnipeg, MB | [Terraform: The Developer's Swiss Army Knife for Infrastructure](https://github.com/TaleLearnCode/TerraformSwissArmyKnife) |
 | [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/301867396/) | September 19, 2024    | Louisville, KY         | Let's Learn .NET Aspire                                      |
-| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300491256/) | August 22, 2024       | Louisville, KY         | [Generative AI for .NET Developers](https://github.com/TaleLearnCode/GenerativeAIForDotNetDevelopers) |
 | [dev up 2024](https://www.devupconf.org/)                    | August 14 - 16, 2024  | St. Charles, MO        | [Building Serverless Solutions with Azure and .NET (workshop)](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
-|                                                              | August 14 - 16, 2024 | St. Charles, MO | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
+|                                                              |  |  | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
+| |  |  | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
+| |  |  | [Going Schema-less: How to migrate a relational database to a NoSQL database](https://github.com/TaleLearnCode/GoingSchemaless) |
 | [Beer City Code 2024](https://www.beercitycode.com/) | August 3, 2024 | Grand Rapids, MI | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
 |  | August 3, 2024 | Grand Rapids, MI | [Reevaluating Software Design Patterns: Uncovering Patterns That Can Be More Burden Than Benefit](https://github.com/TaleLearnCode/ReevaluatingSoftwareDesignPatterns) |
 |  | August 3, 2024 | Grand Rapids, MI | [Building Serverless Solutions with Azure and .NET (Workshop)](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
@@ -73,7 +76,7 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 |  | July 17-19, 2024 | Lincoln, NE | [Design and Develop a Serverless Event-Driven Microservice-Based Solution](https://github.com/TaleLearnCode/DesignDevelopServerlessEventDrivenMicroserviceSolution) |
 | [Tulsa .NET User Group](https://www.meetup.com/dotnet-virtual-user-group/events/301528575/) | June 25, 2024 | Tulsa, OK (Online) | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
 | [Azure Day Roma 2024](https://azureday.it/) | June 21, 2024 | Rome, Italy | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
-| [Louisville Azure Meetup](https://www.meetup.com/louisville-azure-meetup/events/300314705/) | June 13, 2024 | Louisville, KY | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
+| [Louisville Azure Meetup](https://www.meetup.com/louisville-azure-meetup/events/300314705/) | June 13, 2024 | Louisville, KY | [Unleashing Extreme Scalability with Azure Functions](https://github.com/TaleLearnCode/UnleashingExtremeScalabilityWithAzureFunctions) |
 | [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300463326/) | May 23, 2024 | Louisville .NET Meetup | [Essential Software Design Patterns for Optimal Development](https://github.com/TaleLearnCode/EssentialSoftwareDesignPatterns) |
 | Serverless Architecture Conference London 2024 | April 11, 2024        | London, UK | Advanced Serverless Workshop |
 |  | April 9, 2024 | London, UK | Crack the Code to Scalability: Mastering Serverless Architectures for Unstoppable Apps! |

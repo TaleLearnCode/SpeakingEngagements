@@ -77,11 +77,11 @@ If you want to see just what is pending, please check the [Pending Event Submiss
 |                                                              |                        |                      | Embracing Azure Container Apps for Streamlined DevOps        | In Evaluation |
 |                                                              |                        |                      | Beyond Hello World: Getting Deeper into Azure Functions      | In Evaluation |
 |                                                              |                        |                      | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | In Evaluation |
-| [Beer City Code 2025](https://beercitycode.com/)             | August 8 - 9, 2025     | Grand Rapids, MI     | Unlock the Power of Messaging Patterns                       | In Evaluation |
-|                                                              |                        |                      | In Defense of Microservices                                  | In Evaluation |
-|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | In Evaluation |
-|                                                              |                        |                      | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | In Evaluation |
-|                                                              |                        |                      | Embracing Azure Container Apps for Streamlined DevOps        | In Evaluation |
+| [Beer City Code 2025](https://beercitycode.com/)             | August 8 - 9, 2025     | Grand Rapids, MI     | Unlock the Power of Messaging Patterns                       | Declined      |
+|                                                              |                        |                      | In Defense of Microservices                                  | In Declined   |
+|                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | Accepted      |
+|                                                              |                        |                      | Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records | Accepted      |
+|                                                              |                        |                      | Embracing Azure Container Apps for Streamlined DevOps        | Declined      |
 | TechMentor @ Microsoft HQ 2025                               | August 11 - 15, 2025   | Redmond, WA          | Unlock the Power of Messaging Patterns                       | Declined      |
 |                                                              |                        |                      | Transform Your Cloud Architecture with These Messaging Patterns | Declined      |
 |                                                              |                        |                      | Azure Durable Functions for Serverless .NET Orchestration    | Declined      |
