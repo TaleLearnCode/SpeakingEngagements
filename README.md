@@ -23,19 +23,24 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 
 ## Upcoming Events
 
-3 events; 5 presentations
+6 events; 10 presentations
 
 | Event                                                        | Date(s)              | Location         | Presentation(s)                                              |
 | ------------------------------------------------------------ | -------------------- | ---------------- | ------------------------------------------------------------ |
-| [Beer City Code](https://www.beercitycode.com/)              | August 8 - 9, 2025   | Grand Rapids, MI | [](https://github.com/TaleLearnCode/ServerlessOrchestration) |
-|                                                              |                      |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [Atlanta Cloud Conference](https://atlcloudconf.com/)        | April 26, 2025       | Marietta, GA     | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
 | [Stir Trek](https://stirtrek.com/speakers/2025/Chad-Green.html) | May 2, 2025          | Columbus, OH     | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [dev up 2025](https://devupconf.org/)                        | August 6 - 8, 2025   | St. Charles, MO  | Unlock the Power of Messaging Patterns                       |
+|                                                              |                      |                  | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
+|                                                              |                      |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [Beer City Code](https://www.beercitycode.com/)              | August 8 - 9, 2025   | Grand Rapids, MI | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/ServerlessOrchestration) |
+|                                                              |                      |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
 | [Visual Studio Live!](https://vslive.com/events/san-diego-2025/home.aspx) | September 8-12, 2025 | San Diego, CA    | [Technical Debt is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
 |                                                              | September 8-12, 2025 | San Diego, CA    | [Secrets of Conflict Resolution](https://github.com/TaleLearnCode/SecretsOfConflictResolution) |
+| [Tunisia Dev Days 2025](https://tunisiadevdays.net/)         | November 7-8, 2025   | Tunis, Tunisia   | The Dark Side of Design Patterns: What They Don't Tell You   |
 
 ## 2025 Events
 
-1 Events; 3 presentations
+3 Events; 4 presentations
 
 | Event                                                        | Date                  | Location       | Presentation                                                 |
 | ------------------------------------------------------------ | --------------------- | -------------- | ------------------------------------------------------------ |
