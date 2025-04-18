@@ -14,6 +14,43 @@ If you want to see just what is pending, please check the [Pending Event Submiss
 
 ## 2025
 
+| Event                                                       | Dates                          | Location                 | Submitted Session                                            | Submission Date | Notification Date |
+| ----------------------------------------------------------- | ------------------------------ | ------------------------ | ------------------------------------------------------------ | --------------- | ----------------- |
+| [APICon New York 2025](https://apiconference.net/new-york/) | September 28 - October 3, 2025 | New York, NY             | ⏳ [Microservices in the Big Apple: My Journey with Azure API Management](sessions\mastering-microserices-api-management-with-azure-apim.md) | 2025-04-18      | Pending           |
+|                                                             |                                |                          | ⏳ [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](sessions\code-connect-conquer.md) | 2025-04-18      | Pending           |
+|                                                             |                                |                          | ⏳  [Scaling APIs Like a City That Never Sleeps: Building Resilient APIs in Azure](sessions\building-resilient-and-scalable-apis-in-azure.md) | 2025-04-18      | Pending           |
+|                                                             |                                |                          | ⏳ [The API Exchange: Transforming API Discovery & Governance with Azure API Center](sessions\unlocking-discovery-governance-and-development-with-azure-api-center.md) | 2025-04-18      | Pending           |
+| DevOpsCon New York 2025                                     | September 8 - October 3, 2025  | New York, NY             | ⏳ [DevOps on the Urban Grid: Streamlining Agile Workflows with Azure](sessions\devops-best-practices-for-cloud-environments-with-azure.md) | 2025-04-18      | Pending           |
+|                                                             |                                |                          | ⏳ [Technical Debt Is Not Free](sessions\technical-debt-is-not-free.md) | 2025-04-18      | Pending           |
+|                                                             |                                |                          | ⏳ [Terraform: The Developer's Swiss Army Knife for Infrastructure](sessions\terraform-the-developers-swiss-army-knife-for-infrastructure.md) | 2025-04-18      | Pending           |
+| Techorama 2025 Netherlands                                  | October 27 - 29, 2025          | Utrecht, The Netherlands | ⏳ [Game-Changing Messaging: A Playbook for Winning Cloud Architectures](sessions\supercharge-your-architectures-with-messaging-patterns.md) | 2025-04-18      | Pending           |
+|                                                             |                                |                          | ⏳ [Messaging Playbook: Winning Patterns for a Championship Cloud Architecture](sessions\messaging-patterns-that-transform-your-cloud-architecture.md) | 2025-04-18      | Pending           |
+|                                                             |                                |                          | ⏳ [Design Patterns: The Unseen Fouls That Hurt Your Code](sessions\the-dark-side-of-design-patterns.md) | 2025-04-18      | Pending           |
+|                                                             |                                |                          | [🚴 Pedaling Towards NoSQL: Shifting Gears for Scalable Data Architecture](sessions\going-schemaless.md) | 2025-04-18      | Pending           |
+|                                                             |                                |                          | ⏳ [Transform Chaos into Order with Azure Durable Functions](sessions\transform-choas-into-order-with-azure-durable-functions.md) | 2025-04-18      | Pending           |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To be rebuilt
+
+## 2025
+
 | Event                                                        | Dates                  | Locations            | Submitted Session                                            | Status        |
 | ------------------------------------------------------------ | ---------------------- | -------------------- | ------------------------------------------------------------ | ------------- |
 | [Agile Meets Architecture 2025](https://www.agile-meets-architecture.com/2025/home) | April 3-4, 2025        | Berlin, Germany      | Navigating the Maze: Communicating Architecture Decision Records | Declined      |
