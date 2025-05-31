@@ -65,9 +65,10 @@ graph TB
 
 This table tracks every conference or event where this presentation has been submitted and the outcome.
 
-| Event                   | Location     | Date       | Length | Submission   | Materials | Recording |
-| ----------------------- | ------------ | ---------- | ------ | ------------ | --------- | --------- |
-| DevOpsCon New York 2025 | New York, NY | 2025-09-28 | 45     | ⏳ 2025-04-18 | N/A       | N/A       |
+| Event                         | Location     | Date       | Length | Submission   | Materials | Recording |
+| ----------------------------- | ------------ | ---------- | ------ | ------------ | --------- | --------- |
+| DevOpsCon New York 2025       | New York, NY | 2025-09-28 | 45     | ⏳ 2025-04-18 | N/A       | N/A       |
+| Prairie Dev Con Winnipeg 2025 | Manitoba, MB | 2025-09-22 | 60     | ⏳ 2025-05-08 | N/A       | N/A       |
 
 ✅ Accepted | ⏳ Pending | ❌ Rejected
 
@@ -81,13 +82,14 @@ This presentation is geared toward developers, software architects, technical le
 
 Some conferences require adjustments to the presentation details to better align with their themes or audience. Below are the variations applied for specific event submissions.
 
-### Conference Name 1  
+### Prairie Dev Con Winnipeg 2025
 
-**Title:** "Custom Talk Title for This Event"  
+**Title:** Technical Debt Is Not Free  
 **Abstract:**  
-This version of the abstract was tailored to the conference theme. It highlights specific challenges and industry trends that align with the event’s focus. The adaptation ensures relevance while maintaining the core message of the talk.  
+In our early rush to ship features, we unknowingly let quick fixes pile up until our codebase started screaming for attention. In this session, I'll share our candid journey of discovering that technical debt isn't free—it compounds, turning short-term expedience into long-term setbacks. Through real-world examples and case studies, I'll show how we learned to track, manage, and repay our debt before it crippled our projects. You’ll leave with actionable strategies and a clear blueprint to maintain a healthy, sustainable codebase, ensuring that each decision today sets you up for tomorrow’s success.
 
-**Tags:** JavaScript, AI, Innovation  
+**Elevator Pitch:**  
+Quick fixes quickly add up. Discover our journey of confronting hidden technical debt before it crippled our codebase—and learn actionable strategies to track, manage, and repay it for a sustainable future.
 
 ---
 

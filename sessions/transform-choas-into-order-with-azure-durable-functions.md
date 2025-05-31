@@ -63,11 +63,9 @@ graph TB
 
 This table tracks every conference or event where this presentation has been submitted and the outcome.
 
-| Event   | Location      | Date       | Length | Submission   | Materials                                 | Recording                                |
-| ------- | ------------- | ---------- | ------ | ------------ | ----------------------------------------- | ---------------------------------------- |
-| Event 1 | City, Country | YYYY-MM-DD | xxx    | ✅ YYYY-MM-DD | [View Slides](https://link-to-slides.com) | [Watch Video](https://link-to-video.com) |
-| Event 2 | City, Country | YYYY-MM-DD | xxx    | ⏳ YYYY-MM-DD | N/A                                       | N/A                                      |
-| Event 3 | City, Country | YYYY-MM-DD | xxx    | ❌ YYYY-MM-DD | N/A                                       | N/A                                      |
+| Event                         | Location     | Date       | Length | Submission   | Materials | Recording |
+| ----------------------------- | ------------ | ---------- | ------ | ------------ | --------- | --------- |
+| Prairie Dev Con Winnipeg 2025 | Winnipeg, MB | 2025-09-22 | 60     | ⏳ 2025-05-08 | N/A       | N/A       |
 
 ✅ Accepted | ⏳ Pending | ❌ Rejected
 
@@ -89,13 +87,14 @@ For post-session engagement, participants can connect via GitHub discussions, Li
 
 Some conferences require adjustments to the presentation details to better align with their themes or audience. Below are the variations applied for specific event submissions.
 
-### Conference Name 1  
+### Prairie Dev Con Winnipeg 2025
 
-**Title:** Transform Chaos into Order with Azure Durable Functions  
+**Title:** From Chaos to Order: Our Journey with Azure Durable Functions  
 **Abstract:**  
-Like in sports, orchestrating enterprise workflows requires **strategy, resilience, and precision**. Azure Durable Functions acts as your **game-winning playbook**, helping developers build stateful, long-running workflows that operate smoothly and efficiently in the cloud.
+Our team once wrestled with convoluted business processes that threatened to derail productivity—until we discovered Azure Durable Functions. In this session, I recount our hands-on journey from grappling with stateful, long-running workflows to orchestrating elegant, resilient solutions. I’ll share the critical turning points: how we transformed complex order processing challenges and navigated strict regulatory requirements by building scalable, serverless .NET applications. Through step-by-step demos and live examples, you’ll see how our approach to durable function orchestrations simplifies state management and boosts efficiency and reliability. Join me to uncover the actionable strategies that turned our chaos into a finely tuned system, and learn how these methods can revolutionize your cloud architecture.
 
-In this session, we'll step onto the field with live demos and best practices to tackle complex business processes—optimizing supply chain logistics or managing regulatory compliance. Learn how to build reliable orchestrations that scale effortlessly, ensuring your applications perform at their peak, just like an elite athlete. Get ready to master the game with Durable Functions!
+**Elevator Pitch:**  
+Transform chaos into order! Join our journey with Azure Durable Functions as we turn tangled workflows into resilient, scalable orchestrations through live demos and real-world tactics—unlocking the secret to efficient, serverless systems.
 
 ---
 

@@ -105,6 +105,36 @@ Whether you’re an architect, developer, or IT leader, this session will equip 
 
 **Tags:** JavaScript, AI, Innovation  
 
+### Prairie Dev Con Winnipeg 2025
+
+**Title:** From Outage to Triumph: Our Journey Building Resilient APIs in Azure
+
+**Abstract:**  
+Modern APIs need more than technical prowess—they must endure tough, real-world challenges. In this session, I’ll share how our team turned a crisis into an innovation opportunity. When an unexpected outage put our service to the test, we were forced to rethink our approach using Azure API Management, Azure Functions, and Azure Container Apps. We leaned into comprehensive high availability and disaster recovery strategies to ensure seamless failover and minimal downtime.
+
+I’ll walk you through how we implemented resilience techniques like retry policies, circuit breakers, and throttling methods that didn’t just temporarily patch issues but transformed our system. Along the way, you’ll see how live monitoring with Azure Monitor and Application Insights kept us in the loop during critical moments and helped us learn valuable lessons for future improvements.
+
+**Elevator Pitch:**  
+Surviving an outage isn’t enough—thriving after one is the real challenge. I’ll reveal how we transformed a crisis into a resilient, scalable API framework using Azure. Learn hard-won lessons, see real-world solutions in action, and leave equipped to future-proof your cloud-native applications.
+
+### APICon Berlin 2025
+
+**Title:** Scaling APIs Like the Heart of Berlin: Building Resilient APIs in Azure  
+**Abstract:**  
+Berlin is a city defined by reinvention and grit. This session will explore how modern APIs can mirror that spirit by remaining robust and scaling dynamically under pressure. Using Azure API Management, Azure Functions, and Azure Container Apps, you’ll discover strategies that allow your APIs to overcome failures and thrive during surges gracefully.
+
+- Urban Resilience: Architect for high availability and seamless failover, reflecting Berlin’s adaptive infrastructure.
+
+- Ingenious Fail-Safes: Implement retry policies, circuit breakers, and throttling, turning challenges into opportunities, much like the city’s remarkable transformations.
+
+- Real-Time Observability: Utilize Azure Monitor and Application Insights for live performance tracking, echoing Berlin’s data-driven approach to innovation.
+
+- Live Demo: See these resilience techniques in action, drawing parallels to the dynamic pulse of Berlin’s tech scene.
+
+Designed for developers, architects, and IT professionals alike, this session equips you with actionable insights to build cloud architectures that remain as resilient and transformative as Berlin.
+
+
+
 ---
 
 ## Final Thoughts
