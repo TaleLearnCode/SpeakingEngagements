@@ -81,9 +81,10 @@ graph LR
 
 This table tracks every conference or event where this presentation has been submitted and the outcome.
 
-| Event   | Location      | Date       | Length | Submission   | Materials                                 | Recording                                |
-| ------- | ------------- | ---------- | ------ | ------------ | ----------------------------------------- | ---------------------------------------- |
-| Event 1 | City, Country | YYYY-MM-DD | xxx    | ✅ YYYY-MM-DD | [View Slides](https://link-to-slides.com) | [Watch Video](https://link-to-video.com) |
+| Event                                          | Location     | Date       | Length | Submission   | Materials                                 | Recording                                |
+| ---------------------------------------------- | ------------ | ---------- | ------ | ------------ | ----------------------------------------- | ---------------------------------------- |
+| Prairie Dev Con Winnipeg 2025                  | Winnipeg, MB | 2025-09-22 | 60     | ⏳ 2025-05-08 | [View Slides](https://link-to-slides.com) | [Watch Video](https://link-to-video.com) |
+| Serverless Architecture Conference Berlin 2025 | Berlin, DE   |            | 45     | ⏳2025-05-16  |                                           |                                          |
 
 ✅ Accepted | ⏳ Pending | ❌ Rejected
 
@@ -102,6 +103,35 @@ Some conferences require adjustments to the presentation details to better align
 **Title:** Messaging Playbook: Winning Patterns for a Championship Cloud Architecture  
 **Abstract:**  
 Building a cloud architecture that scales, responds, and thrives under pressure is like coaching a winning sports team. Success depends on selecting the right strategies—messaging patterns that allow services to collaborate seamlessly, react in real-time, and handle unpredictable events with resilience. In this session, we'll explore key messaging paradigms—Point-to-Point, Publish-Subscribe, Message Queues, Request-Reply, Event Sourcing, and Saga Patterns—through the lens of sports strategy. You'll see these patterns in action, like how championship teams use coordination, agility, and persistence to outperform their competition. Whether designing a microservices-based architecture or fine-tuning your cloud application, you’ll gain playbook-worthy techniques to make your system as adaptable and effective as a well-trained athlete.
+
+### Prairie Dev Con 2025
+
+**Title:** Silos to Symphony: Our Journey with Messaging Patterns in the Cloud
+
+**Abstract**:  
+Our cloud architecture once struggled with disjointed communication and brittle integrations. When our systems began to falter, we turned to messaging patterns as our salvation. Through trial and error, we discovered that embracing paradigms—from classic Point-to-Point to the innovative Saga pattern—could transform our scattered components into a harmonized, resilient system.
+
+In this session, I’ll share the rollercoaster story behind our transformation. I’ll recount early missteps and breakthrough moments that drove us to reimagine data flows and communication channels. Expect to dive into hands-on case studies where simple messaging turned a failing system into one that scales gracefully, adapts dynamically, and withstands disruptions. This isn’t just a technical exploration; it’s a narrative of how real-world challenges spurred us to adopt messaging patterns that unlocked unprecedented performance and reliability in our cloud solutions.
+
+**Elevator Pitch:**
+
+Transform your cloud chaos into harmony! Discover how we re-engineered our architecture using messaging patterns—from Point-to-Point to Saga—unlocking scalability, resilience, and dynamic response. Join our journey to witness real-world transformation in action.
+
+### Serverless Architecture Conference Berlin 2025
+
+**Title:** The Architecture of Connection: Messaging Patterns for Cloud Scalability  
+**Abstract:**  
+Berlin is a city built on connections, historically, technologically, and culturally. Just as Berlin evolved from fragmented divisions into a unified tech powerhouse, modern cloud architectures rely on messaging patterns to synchronize, scale, and respond dynamically to ever-changing demands.
+
+In this session, discover how messaging patterns form the backbone of resilient cloud systems, enabling seamless communication across distributed architectures. Key topics include:
+
+- Point-to-Point & Pub/Sub Messaging: Structuring reliable communication, much like Berlin’s efficient transportation networks.
+- Event-Driven Design: Reacting dynamically to real-time triggers—akin to Berlin’s vibrant startup ecosystem.
+- Saga Pattern & Distributed Transactions: Ensuring consistency across complex workflows, mirroring Berlin’s adaptive infrastructure.
+- Resilient Cloud Integration: Building fault-tolerant message flows, inspired by Berlin’s reinvention through history.
+- Real-World Case Studies & Live Demos: Showcasing practical implementations that future-proof cloud messaging strategies.
+
+Through hands-on demonstrations and vivid case studies, attendees will gain technical mastery over messaging paradigms that enhance scalability, reliability, and efficiency, just like Berlin’s transformation into one of Europe’s most connected cities.
 
 ---
 

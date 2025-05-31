@@ -80,6 +80,8 @@ This table tracks every conference or event where this presentation has been sub
 | Event                                                       | Location          | Date                     | Submission   | Slide Deck | Video Recording |
 | ----------------------------------------------------------- | ----------------- | ------------------------ | ------------ | ---------- | --------------- |
 | [APICon New York 2025](https://apiconference.net/new-york/) | New York, NY, USA | 2025-09-28 to 2025-10-03 | ⏳ 2025-04-18 | N/A        | N/A             |
+| Prairie Dev Con Winnipeg 2025                               | Winnipeg, MB      | 2025-09-22 to 2025-09-23 | ⏳2025-05-08  | N/A        | N/A             |
+| APICon Berlin 2025                                          | Berlin, DE        |                          | ⏳2025-05-14  |            |                 |
 
 ✅ Accepted | ⏳ Pending | ❌ Rejected
 
@@ -109,6 +111,34 @@ You'll learn:
 This session showcases how APIM streamlines microservice architectures through hands—on demonstrations and case studies, turning API management challenges into strategic opportunities in the fast-moving world of software development.
 
 **Tags:** API Development, API Design, API Management, API Platforms & Business, API Security
+
+### APICon Berlin 2025
+
+**Title:** Microservices in a City of Reinvention: Mastering API Management with Azure APIM
+
+**Abstract:**  Berlin thrives on transformation—once divided, now a global hub for innovation and connectivity. Just like Berlin’s intricate infrastructure enables seamless movement, microservices architectures require innovative API management to ensure security, governance, and observability at scale. This session explores how Azure API Management (APIM) is the central gateway for harmonizing microservices, securing API communication, and optimizing performance.
+
+Drawing from real-world implementations, we’ll cover:
+
+- **Security & Access Control:** Enforcing authentication, rate limiting, and compliance, like the city’s well-structured systems, ensures safety and efficiency.
+- **Monitoring & Analytics:** Leveraging built-in telemetry for real-time insights, mirroring Berlin’s data-driven approach to urban planning.
+- **Integration Strategies:** Connecting diverse microservices seamlessly through APIM, just as Berlin integrates tradition and tech into a thriving digital landscape.
+- **Lessons from the Field:** Insights from deploying APIM in high-demand enterprise environments, reflecting Berlin’s adaptability.
+
+Through live demonstrations and case studies, this session provides actionable strategies to streamline API management, enhance security, and optimize microservices architecture, equipping you to design systems as agile and enduring as Berlin itself.
+
+### Prairie Dev Con Winnipeg 2025
+
+**Title:** From Chaos to Harmony: Our Journey in Mastering Microservices API Management with Azure APIM
+
+**Abstract:**  When our microservices architecture began to reveal cracks—security gaps, fragmented integrations, and elusive performance metrics—it became clear that a cohesive strategy was urgently needed. We turned to Azure API Management as our secret weapon, and our journey transformed from managing discordant endpoints into orchestrating a symphony of secure, well-governed APIs.
+
+In this session, I’ll recount how we leveraged APIM to tackle real-world challenges. Discover how we enforced strict security and access controls with authentication standards and rate limiting, creating a reliable gatekeeper for our diverse services. I’ll also share how we utilized built-in telemetry to uncover performance bottlenecks, enabling us to monitor, analyze, and optimize our APIs in real time. And when disparate systems threatened to derail our integrations, APIM offered the unifying framework that seamlessly connected our microservices.
+
+Through live demonstrations and genuine case studies, you’ll witness firsthand how we transformed a chaotic environment into a robust, scalable API ecosystem. Whether you’re a developer, architect, or business leader, join me to learn practical strategies to elevate your API strategy and ensure that your microservices operate not as isolated islands but as a coordinated, thriving network.
+
+**Elevator Pitch:**  
+Transform chaos into harmony with Azure APIM! Learn how we secured and unified microservices, tackled integration challenges, and boosted performance with live demos and real-world lessons. Elevate your API strategy through true transformation!
 
 ---
 

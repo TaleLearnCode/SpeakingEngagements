@@ -93,7 +93,7 @@ This presentation is ideal for developers and architects looking to improve thei
 
 Some conferences require adjustments to the presentation details to better align with their themes or audience. Below are the variations applied for specific event submissions.
 
-### Conference Name 1  
+### APICon New York 2025
 
 **Title:** The API Exchange: Transforming API Discovery & Governance with Azure API Center  
 **Abstract:**  
@@ -108,6 +108,22 @@ This session will demonstrate how Azure API Center empowers organizations to:
 - **Accelerate Discovery & Reuse:** Transform API integration into a dynamic exchange where valuable APIs are readily available.
 
 Through **live demos and real-world case studies**, this session will reveal actionable strategies for leveraging Azure API Center’s capabilities, turning API management into a powerful exchange that fuels modern digital strategies.
+
+### APICon Berlin 2025
+
+**Title**: The Digital Gateway: Unlocking API Discovery & Governance with Azure API Center  
+**Abstract**:  
+Berlin has always been a city of connections—historically divided, now a thriving hub of innovation and integration. Just as Berlin’s infrastructure unites diverse systems across industries, Azure API Center brings harmony to API management, ensuring seamless governance, discovery, and reuse at scale.
+
+In this session, discover how Azure API Center empowers developers and architects to:
+
+- Centralized API Inventory: Build a structured, searchable repository, like Berlin’s meticulously planned transit networks linking the city.
+- Streamline API Design & Development: Enhance lifecycle consistency and collaboration, mirroring Berlin’s ability to evolve while preserving its foundation.
+- Bridge Documentation & Implementation: Align API metadata with actual services, much like Berlin’s digital transformation integrates tradition with modern technology.
+- Enhance API Governance: Ensure compliance and best practices, as Berlin balances innovation with regulation in its dynamic tech ecosystem.
+- Accelerate Discovery & Reuse: Unlock API assets efficiently, like the city’s startup culture, which fosters rapid innovation.
+
+Through live demonstrations and real-world case studies, this session will showcase how Azure API Center streamlines API management, fosters collaboration, and strengthens governance, allowing organizations to scale with the resilience and adaptability that define Berlin itself.
 
 **Tags:** JavaScript, AI, Innovation  
 
