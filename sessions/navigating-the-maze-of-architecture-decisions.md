@@ -15,11 +15,11 @@ You will walk away with actionable guidelines for authoring, maintaining, and ev
 
 ## Overview
 
-In today’s fast-evolving software landscape, well-documented architectural decisions can distinguish between scalable success and costly rework. This talk zooms in on ADRs as a strategic asset that captures the "what" and the crucial "why" of your design decisions. Using vivid real-world examples and interactive insights, we’ll explore best practices for integrating ADRs into your project lifecycle and discuss how these records can bring clarity, foster collaboration, and preserve vital knowledge for teams of all sizes.
+In today’s fast-evolving software landscape, well-documented architectural decisions can distinguish between scalable success and costly rework. This talk focuses on ADRs as a strategic asset that captures both the "what" and the crucial "why" behind your design decisions. Using vivid real-world examples and interactive insights, we’ll explore best practices for integrating ADRs into your project lifecycle and discuss how these records can bring clarity, foster collaboration, and preserve vital knowledge for teams of all sizes.
 
 #### Elevator Pitch
 
-Document your architectural rationale with precision. Learn how ADRs demystify decision-making, streamline communication, and empower teams to evolve confidently in a dynamic technical landscape.
+Document your architectural rationale with precision. Discover how ADRs clarify decision-making, enhance communication, and empower teams to evolve confidently in a rapidly changing technical landscape.
 
 #### Tags
 
@@ -49,7 +49,7 @@ graph LR
 ## Key Takeaways
 
 - **Demystify Architecture Decision Records (ADRs):** Understand what ADRs are, why they matter, and how they serve as a vital framework for capturing the reasoning behind your architectural choices.
-- **Craft Clear and Actionable ADRs:** Gain practical, hands-on techniques for authoring and maintaining ADRs that document context, rationale, and trade-offs, ensuring they remain an enduring resource throughout your project’s lifecycle.
+- **Craft Clear and Actionable ADRs:** Acquire practical, hands-on techniques for authoring and maintaining ADRs that document context, rationale, and trade-offs, ensuring they remain a valuable resource throughout your project’s lifecycle.
 - **Enhanced Communication:** Discover how clear documentation drives better collaboration and decision-making.
 
 ---
@@ -63,15 +63,15 @@ graph LR
 
 ## Event History
 
-This table tracks every conference or event where this presentation has been submitted and the outcome.
+This table tracks every conference or event where this presentation has been submitted, along with its outcome.
 
 | Event                            | Location         | Date       | Length | Submission   | Materials | Recording |
 | -------------------------------- | ---------------- | ---------- | ------ | ------------ | --------- | --------- |
-| Prairie Dev Con Winnipeg 2025    | Winnipeg, MB     | 2025-09-22 | 60     | ⏳ 2025-05-08 | N/A       | N/A       |
-| Live! 360 Tech Con Orlando 2025  | Orlando, FL      | YYYY-MM-DD | 75     | ⏳ 2025-03-22 | N/A       | N/A       |
+| Prairie Dev Con Winnipeg 2025    | Winnipeg, MB     | 2025-09-22 | 60     | ❌ 2025-05-08 | N/A       | N/A       |
+| Live! 360 Tech Con Orlando 2025  | Orlando, FL      | YYYY-MM-DD | 75     | ❌ 2025-03-22 | N/A       | N/A       |
 | TDC 2025                         |                  | YYYY-MM-DD | xxx    | ❌ 2025-03-03 | N/A       | N/A       |
-| Tunisia Dev Days 2025            | Tunis, Tunisia   | YYYY-MM-DD | xxx    | ⏳ 2025-02-19 | N/A       | N/A       |
-| KCDC 2025                        | Kansas City, MO  |            |        | ⏳2025-02-19  | N/A       | N/A       |
+| Tunisia Dev Days 2025            | Tunis, Tunisia   | YYYY-MM-DD | xxx    | ❌ 2025-02-19 | N/A       | N/A       |
+| KCDC 2025                        | Kansas City, MO  |            |        | ❌2025-02-19  | N/A       | N/A       |
 | Beer City Code 2025              | Grand Rapids, MI |            |        | ✅2025-02-02  | N/A       | N/A       |
 | dev up 2025                      | St. Charles, MO  |            |        | ✅2025-02-02  | N/A       | N/A       |
 | Nebraska.Code() 2025             | Lincoln, NE      |            |        | ❌2025-02-02  | N/A       | N/A       |
@@ -105,16 +105,6 @@ Software architecture often feels like wandering through a labyrinth of opinions
 
 **Elevator Pitch:**  
 Struggling with ambiguous design choices? Discover how ADRs turned our chaotic debates into a clear, actionable blueprint. Learn to document the “why” behind every decision and empower your team with clarity and confidence.
-
----
-
-### Conference Name 2  
-
-**Title:** "Tweaked Title for Event"  
-**Abstract:**  
-The abstract was modified to emphasize the security aspects of the presentation for this event. It introduces key concerns in modern web development and discusses solutions aligned with the conference’s theme.  
-
-**Tags:** Security, Web Development  
 
 ---
 
