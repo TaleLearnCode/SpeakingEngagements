@@ -1,0 +1,487 @@
+terraform {
+  required_providers {
+    github = {
+      source  = "integrations/github"
+      version = "~> 6.0"
+    }
+  }
+}
+
+variable "github_token" {
+  description = "GitHub token with permissions to manage repositories and labels"
+  type        = string
+  sensitive   = true
+}
+
+provider "github" {
+  token = var.github_token
+}
+
+# Presentation Repositories
+variable "presentation_repos" {
+  type = map(string)
+  default = {
+    SpeakingEngagements                       = "SpeakingEngagements"
+    NavigatingTheMaze-private                 = "NavigatingTheMaze"
+    InDefenseOfMicroservices-private          = "InDefenseOfMicroservices"
+    ServerlessOrchestration-private           = "TransformChaosIntoOrderWithAzureDurableFunctions"
+    UnlockThePowerOfMessagingPatterns-private = "SuperchargeYourArchitecturesWithMessagingPatterns"
+    GoingSchemaless-private                   = "GoingSchemaless"
+  }
+}
+
+# Repos by Conference
+variable "conference_repo_map" {
+  type = map(list(string))
+  default = {
+    devup2025 = [
+      "NavigatingTheMaze-private",
+      "InDefenseOfMicroservices-private",
+      "UnlockThePowerOfMessagingPatterns-private"
+    ]
+    beercitycode2025 = [
+      "NavigatingTheMaze-private",
+      "ServerlessOrchestration-private",
+      "UnlockThePowerOfMessagingPatterns-private"
+    ]
+    kcdc2025 = [
+      "GoingSchemaless-private"
+    ]
+  }
+}
+
+# Label Colors
+variable "task_label_color" {
+  type    = string
+  default = "B83280"
+}
+
+variable "conference_label_color" {
+  type    = string
+  default = "5A67D8"
+}
+
+variable "presentation_label_color" {
+  type    = string
+  default = "38A169"
+}
+
+# Task Labels
+locals {
+  task_labels = {
+    "task:cfp"           = "Call for Speakers tasks"
+    "task:prep"          = "Preparation tasks for presentations"
+    "task:sponsor-slide" = "Tasks related to sponsor slides for presentations"
+    "task:promo-video"   = "Tasks related to promotional videos for presentations"
+    "task:slide-review"  = "Tasks related to slide reviews for presentations"
+    "task:slide-repo"    = "Tasks related to submitting slides to conference slide repository"
+  }
+}
+
+resource "github_issue_label" "tasks" {
+  for_each = {
+    for pair in flatten([
+      for repo in keys(var.presentation_repos) : [
+        for label, desc in local.task_labels : {
+          key         = "${repo}.${label}"
+          repository  = repo
+          name        = label
+          color       = var.task_label_color
+          description = desc
+        }
+      ]
+    ]) : pair.key => pair
+  }
+
+  repository  = each.value.repository
+  name        = each.value.name
+  color       = each.value.color
+  description = each.value.description
+}
+
+# Conference Labels
+resource "github_issue_label" "conferences" {
+  for_each = {
+    for pair in flatten([
+      for conference, repos in var.conference_repo_map : [
+        for repo in repos : {
+          key         = "${conference}.${repo}"
+          repository  = repo
+          name        = "conference:${conference}"
+          color       = var.conference_label_color
+          description = "Tasks related to ${conference} (${lookup({
+            devup2025        = "St. Charles, MO, USA; August 6-8",
+            beercitycode2025 = "Grand Rapids, MI, USA; August 8-9",
+            kcdc2025         = "Kansas City, MO, USA; August 13-15"
+          }, conference)} 2025)"
+        }
+      ]
+    ]) : pair.key => pair
+  }
+
+  repository  = each.value.repository
+  name        = each.value.name
+  color       = each.value.color
+  description = each.value.description
+}
+
+# Presentation-Specific Labels
+locals {
+  presentation_labels = {
+    "NavigatingTheMaze-private"             = "presentation:navigating-the-maze"
+    "InDefenseOfMicroservices-private"      = "presentation:in-defense-of-microservices"
+    "ServerlessOrchestration-private"       = "presentation:serverless-orchestration"
+    "UnlockThePowerOfMessagingPatterns-private" = "presentation:unlock-power-of-messaging-patterns"
+    "GoingSchemaless-private"               = "presentation:going-schemaless"
+  }
+}
+
+resource "github_issue_label" "presentations" {
+  for_each = local.presentation_labels
+
+  repository  = each.key
+  name        = each.value
+  color       = var.presentation_label_color
+  description = "Tasks for ${replace(each.value, "presentation:", "")} presentation"
+}
+
+
+resource "github_repository" "speaking_engagements" {
+	name = "SpeakingEngagements"
+	description = "Repository for managing Chad Green's speaking engagements, including CFPs, presentations, and related tasks."
+
+	visibility = "public"
+
+	has_issues = true
+	has_discussions = false
+	has_projects = true
+	has_wiki = false
+  has_downloads = false
+
+	license_template = "mit"
+
+	topics = [
+		"speaking-engagements",
+		"cfp",
+		"presentations",
+		"conferences",
+	]
+}
+
+resource "github_repository" "supercharge_your_architectures_with_messaging_patterns_private" {
+	name = "UnlockThePowerOfMessagingPatterns-private"
+	description = "This hands-on workshop equips developers and architects with practical skills to implement robust messaging patterns like Publish-Subscribe, Message Queues, and Request-Reply, applicable across AWS, Azure, and Google Cloud. Build resilient, scalable cloud applications through interactive labs and real-world examples."
+
+	visibility = "private"
+
+	has_issues = true
+	has_discussions = false
+	has_projects = true
+	has_wiki = false
+  has_downloads = false
+
+	license_template = "mit"
+
+  topics = [
+    "messaging-patterns",
+    "cloud-architecture",
+    "hands-on-workshop",
+  ]
+
+  template {
+    owner               = "TaleLearnCode"
+    repository          = "PresentationTemplate"
+    include_all_branches = false
+  }
+
+}
+
+resource "github_repository" "supercharge_your_architectures_with_messaging_patterns" {
+	name = "SuperchargeYourArchitecturesWithMessagingPatterns"
+	description = "This hands-on workshop equips developers and architects with practical skills to implement robust messaging patterns like Publish-Subscribe, Message Queues, and Request-Reply, applicable across AWS, Azure, and Google Cloud. Build resilient, scalable cloud applications through interactive labs and real-world examples."
+
+	visibility = "public"
+
+	has_issues = true
+	has_discussions = false
+	has_projects = true
+	has_wiki = false
+  has_downloads = false
+
+	license_template = "mit"
+
+  topics = [
+    "messaging-patterns",
+    "cloud-architecture",
+    "hands-on-workshop",
+  ]
+
+  template {
+    owner               = "TaleLearnCode"
+    repository          = "PublicPresentationTemplate"
+    include_all_branches = false
+  }
+
+}
+
+resource "github_repository" "in_defense_of_microservices_private" {
+	name = "InDefenseOfMicroservices-private"
+	description = "Explore the enduring value of microservices by reiterating their benefits, countering common criticisms, and learning from real-world success stories to make informed architectural decisions."
+
+	visibility = "private"
+
+	has_issues = true
+	has_discussions = false
+	has_projects = true
+	has_wiki = false
+  has_downloads = false
+
+	license_template = "mit"
+
+  topics = [
+    "microservices",
+    "architecture",
+    "real-world-examples",
+    "software-architecture",
+    "event-driven-architecture",
+    "best-practices",
+  ]
+
+  template {
+    owner               = "TaleLearnCode"
+    repository          = "PresentationTemplate"
+    include_all_branches = false
+  }
+
+}
+
+resource "github_repository" "in_defense_of_microservices" {
+	name = "InDefenseOfMicroservices"
+	description = "Explore the enduring value of microservices by reiterating their benefits, countering common criticisms, and learning from real-world success stories to make informed architectural decisions."
+
+	visibility = "public"
+
+	has_issues = true
+	has_discussions = false
+	has_projects = true
+	has_wiki = false
+  has_downloads = false
+
+	license_template = "mit"
+
+  topics = [
+    "microservices",
+    "architecture",
+    "real-world-examples",
+    "software-architecture",
+    "event-driven-architecture",
+    "best-practices",
+  ]
+
+  template {
+    owner               = "TaleLearnCode"
+    repository          = "PublicPresentationTemplate"
+    include_all_branches = false
+  }
+
+}
+
+resource "github_repository" "navigating_the_maze-private" {
+	name = "NavigatingTheMaze-private"
+	description = "This session explores the pivotal role of Architecture Decision Records (ADRs) in enhancing communication within architectural teams, showcasing their effectiveness in documenting decisions, and providing insights into best practices for leveraging ADRs to maintain architectural integrity."
+
+	visibility = "private"
+
+	has_issues = true
+	has_discussions = false
+	has_projects = true
+	has_wiki = false
+  has_downloads = false
+
+	license_template = "mit"
+
+  topics = [
+    "architecture-decision-records",
+    "adr",
+    "communication",
+    "software-architecture",
+    "best-practices",
+    "documentation",
+    "team-collaboration",
+    "software-development"
+  ]
+
+  template {
+    owner               = "TaleLearnCode"
+    repository          = "PresentationTemplate"
+    include_all_branches = false
+  }
+
+}
+
+resource "github_repository" "navigating_the_maze" {
+	name = "NavigatingTheMaze"
+	description = "This session explores the pivotal role of Architecture Decision Records (ADRs) in enhancing communication within architectural teams, showcasing their effectiveness in documenting decisions, and providing insights into best practices for leveraging ADRs to maintain architectural integrity."
+
+	visibility = "public"
+
+	has_issues = true
+	has_discussions = false
+	has_projects = true
+	has_wiki = false
+  has_downloads = false
+
+	license_template = "mit"
+
+  topics = [
+    "architecture-decision-records",
+    "adr",
+    "communication",
+    "software-architecture",
+    "best-practices",
+    "documentation",
+    "team-collaboration",
+    "software-development"
+  ]
+
+  template {
+    owner               = "TaleLearnCode"
+    repository          = "PublicPresentationTemplate"
+    include_all_branches = false
+  }
+
+}
+
+resource "github_repository" "transform_chaos_into_order_with_durable_functions_private" {
+	name = "ServerlessOrchestration-private"
+	description = "Explore the capabilities of Azure Durable Functions in orchestrating serverless .NET workflows, covering essential patterns and best practices for seamless application orchestration in the cloud."
+
+	visibility = "private"
+
+	has_issues = true
+	has_discussions = false
+	has_projects = true
+	has_wiki = false
+  has_downloads = false
+
+	license_template = "mit"
+
+  topics = [
+    "serverless",
+    "azure-durable-functions",
+    "orchestration",
+    "cloud-computing",
+    "durable-functions",
+    "workflows",
+    "best-practices"
+  ]
+
+  template {
+    owner               = "TaleLearnCode"
+    repository          = "PresentationTemplate"
+    include_all_branches = false
+  }
+
+}
+
+resource "github_repository" "transform_chaos_into_order_with_durable_functions" {
+	name = "TransformChaosIntoOrderWithAzureDurableFunctions"
+	description = "Explore the capabilities of Azure Durable Functions in orchestrating serverless .NET workflows, covering essential patterns and best practices for seamless application orchestration in the cloud."
+
+	visibility = "public"
+
+	has_issues = true
+	has_discussions = false
+	has_projects = true
+	has_wiki = false
+  has_downloads = false
+
+	license_template = "mit"
+
+  topics = [
+    "serverless",
+    "azure-durable-functions",
+    "orchestration",
+    "cloud-computing",
+    "durable-functions",
+    "workflows",
+    "best-practices"
+  ]
+
+  template {
+    owner               = "TaleLearnCode"
+    repository          = "PublicPresentationTemplate"
+    include_all_branches = false
+  }
+
+}
+
+resource "github_repository" "going_schemaless_private" {
+  name = "GoingSchemaless-private"
+  description = "This session explores the benefits and challenges of adopting a schemaless approach in modern application development, focusing on practical strategies for implementing flexible data models."
+
+  visibility = "private"
+
+  has_issues = true
+  has_discussions = false
+  has_projects = true
+  has_wiki = false
+  has_downloads = false
+
+  license_template = "mit"
+
+  topics = [
+    "database",
+    "nosql",
+    "azure",
+    "cosmos-db",
+    "cosmosdb",
+    "schemaless",
+    "data-modeling",
+    "flexible-data",
+    "application-development",
+    "best-practices"
+  ]
+
+  template {
+    owner               = "TaleLearnCode"
+    repository          = "PresentationTemplate"
+    include_all_branches = false
+  }
+
+}
+
+resource "github_repository" "going_schemaless" {
+  name = "GoingSchemaless"
+  description = "This session explores the benefits and challenges of adopting a schemaless approach in modern application development, focusing on practical strategies for implementing flexible data models."
+
+  visibility = "public"
+
+  has_issues = true
+  has_discussions = false
+  has_projects = true
+  has_wiki = false
+  has_downloads = false
+
+  license_template = "mit"
+
+  topics = [
+    "database",
+    "nosql",
+    "azure",
+    "cosmos-db",
+    "cosmosdb",
+    "schemaless",
+    "data-modeling",
+    "flexible-data",
+    "application-development",
+    "best-practices"
+  ]
+
+  template {
+    owner               = "TaleLearnCode"
+    repository          = "PublicPresentationTemplate"
+    include_all_branches = false
+  }
+
+}

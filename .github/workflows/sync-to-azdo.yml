@@ -1,0 +1,95 @@
+name: Sync GitHub Issue to Azure DevOps
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  sync-to-ado:
+    runs-on: ubuntu-latest
+    steps:
+
+      # Step 1: Check for existing ADO comment
+      - name: Check for existing sync comment
+        id: check_comment
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue_number = context.issue.number;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+
+            const comments = await github.rest.issues.listComments({
+              owner,
+              repo,
+              issue_number
+            });
+
+            const exists = comments.data.some(c => 
+              c.body && c.body.includes("Azure DevOps Work Item ID:")
+            );
+
+            return exists ? "true" : "false";
+
+      # Step 2: Create Azure DevOps User Story with Tags
+      - name: Create Work Item in Azure DevOps
+        id: create_ado
+        if: steps.check_comment.outputs.result == 'false'
+        run: |
+          TITLE="${{ github.event.issue.title }}"
+          DESC="GitHub Issue: ${{ github.event.issue.html_url }}"
+          LABELS=$(echo '${{ toJson(github.event.issue.labels) }}' | jq -r '[.[].name] | join(";")')
+
+          JSON=$(jq -n \
+            --arg title "$TITLE" \
+            --arg desc "$DESC" \
+            --arg tags "$LABELS" \
+            '[ 
+              { "op": "add", "path": "/fields/System.Title", "value": $title },
+              { "op": "add", "path": "/fields/System.Description", "value": $desc },
+              { "op": "add", "path": "/fields/System.Tags", "value": $tags }
+            ]')
+
+          RESPONSE=$(curl -s -X POST \
+            -H "Content-Type: application/json-patch+json" \
+            -H "Authorization: Basic ${{ secrets.AZURE_DEVOPS_PAT }}" \
+            -d "$JSON" \
+            "https://dev.azure.com/chadgreen/Speaking%20Engagements/_apis/wit/workitems/\$User%20Story?api-version=7.1-preview.3")
+
+          echo "$RESPONSE" > workitem.json
+          echo "id=$(jq -r '.id' workitem.json)" >> $GITHUB_OUTPUT
+          echo "url=$(jq -r '._links.html.href' workitem.json)" >> $GITHUB_OUTPUT
+
+      # Step 3: Post a Comment on the GitHub Issue with ADO ID
+      - name: Comment back on GitHub Issue
+        if: steps.create_ado.outputs.id != ''
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue_number = context.issue.number;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const adoId = "${{ steps.create_ado.outputs.id }}";
+            const adoUrl = "${{ steps.create_ado.outputs.url }}";
+
+            await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number,
+              body: `🔗 Synced to Azure DevOps\n✅ Work Item ID: ${adoId}\n🧭 [View Work Item](${adoUrl})`
+            });
+
+      # Step 4: Optional — Post Tags into Azure DevOps Comment
+      - name: Add Azure DevOps Comment with GitHub Context
+        if: steps.create_ado.outputs.id != ''
+        run: |
+          LABELS=$(echo '${{ toJson(github.event.issue.labels) }}' | jq -r '[.[].name] | join(", ")')
+          COMMENT="🛠 Synced from GitHub Issue: ${{ github.event.issue.html_url }}\n🔖 Tags: $LABELS"
+
+          curl -s -X POST \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Basic ${{ secrets.AZURE_DEVOPS_PAT }}" \
+            -d "{\"text\": \"$COMMENT\"}" \
+            "https://dev.azure.com/chadgreen/Speaking%20Engagements/_apis/wit/workItems/${{ steps.create_ado.outputs.id }}/comments?api-version=7.0-preview.3"
