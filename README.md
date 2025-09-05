@@ -23,43 +23,52 @@ I seem to be forever rebuilding my website, but I have reached out to someone fo
 
 ## Upcoming Events
 
-10 events; 18 presentations
+9 events; 17 presentations
 
-| Event                                                        | Date(s)                        | Location         | Presentation(s)                                              |
-| ------------------------------------------------------------ | ------------------------------ | ---------------- | ------------------------------------------------------------ |
-| [dev up 2025](https://devupconf.org/)                        | August 6 - 8, 2025             | St. Charles, MO  | [Unlock the Power of Messaging Patterns](https://github.com/TaleLearnCode/SuperchargeYourArchitecturesWithMessagingPatterns) |
-|                                                              |                                |                  | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
-|                                                              |                                |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
-| [Beer City Code](https://www.beercitycode.com/)              | August 8 - 9, 2025             | Grand Rapids, MI | [Unlock the Power of Messaging Patterns](https://github.com/TaleLearnCode/SuperchargeYourArchitecturesWithMessagingPatterns) |
-|                                                              |                                |                  | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/TransformChaosIntoOrderWithAzureDurableFunctions) |
-|                                                              |                                |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
-| [KCDC](https://www.kcdc.info/)                               | August 13-15, 2025             | Kansas City, MO  | [Going Schema-less: How to migrate a relational database to a NoSQL database](https://github.com/TaleLearnCode/GoingSchemaless) |
-| [Visual Studio Live!](https://vslive.com/events/san-diego-2025/home.aspx) | September 8-12, 2025           | San Diego, CA    | [Technical Debt is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
-|                                                              |                                | San Diego, CA    | [Secrets of Conflict Resolution](https://github.com/TaleLearnCode/SecretsOfConflictResolution) |
-| [API Conference New York](https://apiconference.net/new-york/) | September 29 - October 2, 2025 | New York, NY     | [Scaling APIs Like a City That Never Sleeps: Building Resilient APIs in Azure](https://github.com/TaleLearnCode/BuildingResilientAndScalableAPIsInAzure) |
-| [Serverless Architecture Conference Berlin](https://serverless-architecture.io/berlin/) | October 20 - 22, 2025          | Berlin, Germany  | [Advanced Serverless Workshop](https://github.com/TaleLearnCode/AdvancedServerlessWorkshop) |
-| [API Conference Berlin](https://apiconference.net/berlin/)   | October 20 - 22, 2025          | Berlin, Germany  | [Scaling APIs Like the Heart of Berlin: Building Resilient APIs in Azure](https://github.com/TaleLearnCode/BuildingResilientAndScalableAPIsInAzure) |
-|                                                              |                                |                  | The Digital Gateway: Unlocking API Discovery & Governance with Azure API Center |
-| [Øredev 2025](https://oredev.org/)                           | November 5-7, 2025             | Malmö, Sweden    | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/TransformChaosIntoOrderWithAzureDurableFunctions) |
-|                                                              |                                |                  | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
-| [Tunisia Dev Days 2025](https://tunisiadevdays.net/)         | November 7-8, 2025             | Tunis, Tunisia   | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/TheDarkSideOfDesignPatterns) |
-| [LIVE! 360 Tech Con 2025](https://live360events.com/events/orlando-2025/home.aspx) | November 16 - 21, 2025         | Orlando, FL      | [Hands-on Lab: Accelerate, Aspire, Achieve Next-Level Cloud Solutions with Azure and .NET](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
-|                                                              |                                |                  | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
+| Event                                                        | Date(s)                        | Location        | Presentation(s)                                              |
+| ------------------------------------------------------------ | ------------------------------ | --------------- | ------------------------------------------------------------ |
+| Jasper Engines & Transmission (Private Event)                | September 10, 2025             | Jasper, IN      | [Technical Debt is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
+| [Visual Studio Live!](https://vslive.com/events/san-diego-2025/home.aspx) | September 8-12, 2025           | San Diego, CA   | [Technical Debt is Not Free](https://github.com/TaleLearnCode/TechnicalDebtIsNotFree) |
+|                                                              |                                | San Diego, CA   | [Secrets of Conflict Resolution](https://github.com/TaleLearnCode/SecretsOfConflictResolution) |
+| [API Conference New York](https://apiconference.net/new-york/) | September 29 - October 2, 2025 | New York, NY    | [Scaling APIs Like a City That Never Sleeps: Building Resilient APIs in Azure](https://github.com/TaleLearnCode/BuildingResilientAndScalableAPIsInAzure) |
+|                                                              |                                |                 | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
+| [Serverless Architecture Conference Berlin](https://serverless-architecture.io/berlin/) | October 20 - 22, 2025          | Berlin, Germany | [Advanced Serverless Workshop](https://github.com/TaleLearnCode/AdvancedServerlessWorkshop) |
+|                                                              |                                |                 | [Ask Me Anything (AMA)](https://serverless-architecture.io/serverless-architecture-design/ask-me-anything-session/) |
+| [API Conference Berlin](https://apiconference.net/berlin/)   | October 20 - 22, 2025          | Berlin, Germany | [Scaling APIs Like the Heart of Berlin: Building Resilient APIs in Azure](https://github.com/TaleLearnCode/BuildingResilientAndScalableAPIsInAzure) |
+|                                                              |                                |                 | The Digital Gateway: Unlocking API Discovery & Governance with Azure API Center |
+| [Øredev 2025](https://oredev.org/)                           | November 5-7, 2025             | Malmö, Sweden   | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/TransformChaosIntoOrderWithAzureDurableFunctions) |
+|                                                              |                                |                 | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
+| [Tunisia Dev Days 2025](https://tunisiadevdays.net/)         | November 7-8, 2025             | Tunis, Tunisia  | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/TheDarkSideOfDesignPatterns) |
+| [LIVE! 360 Tech Con 2025](https://live360events.com/events/orlando-2025/home.aspx) | November 16 - 21, 2025         | Orlando, FL     | [Hands-on Lab: Accelerate, Aspire, Achieve Next-Level Cloud Solutions with Azure and .NET](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
+|                                                              |                                |                 | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
+| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/home.aspx) | March 16-20, 2026              | Las Vegas, NV   | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
+|                                                              |                                |                 | [Crack the Code](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+|                                                              |                                |                 | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
 
 ## 2025 Events
 
-7 Events; 8 presentations
+13 Events; 18 presentations
 
-| Event                                                        | Date                  | Location       | Presentation                                                 |
-| ------------------------------------------------------------ | --------------------- | -------------- | ------------------------------------------------------------ |
-| [Stir Trek](https://stirtrek.com/speakers/2025/Chad-Green.html) | May 2, 2025           | Columbus, OH   | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
-| [Atlanta Cloud Conference](https://atlcloudconf.com/)        | April 26, 2025        | Marietta, GA   | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
-| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/307268301/?eventOrigin=group_events_list) | April 17, 2025        | Louisville, KY | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
-| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/306688452/?eventOrigin=group_events_list) | March 20, 2025        | Louisville, KY | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/TheDarkSideOfDesignPatterns) |
-| [TALK's AI Think Tank](https://talklou.com/?p=3100)          | March 6, 2025         | Louisville, KY | Hello, Computer? Embracing AI in Modern Development          |
-| [Conf42 Cloud Native 2025](https://www.conf42.com/Cloud_Native_2025_Chad_Green_microservices_architecture_defense) | March 6, 2025         | VOD            | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
-| [CodeMash](https://codemash.org/)                            | January 14 - 17, 2025 | Sandusky, OH   | [Unlock the Power of Messaging Patterns](https://github.com/TaleLearnCode/UnlockThePowerOfMessagingPatterns-CodeMash) |
-|                                                              | January 14 - 17, 2025 | Sandusky, OH   | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/TheDarkSideOfDesignPatterns) |
+| Event                                                        | Date                  | Location         | Presentation                                                 |
+| ------------------------------------------------------------ | --------------------- | ---------------- | ------------------------------------------------------------ |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/310599591/?eventOrigin=group_past_events) | August 21, 2025       | Louisville, KY   | [Transform Chaos into Order with Azure Durable Functions](https://github.com/TaleLearnCode/TransformChaosIntoOrderWithAzureDurableFunctions) |
+| [KCDC](https://www.kcdc.info/)                               | August 13-15, 2025    | Kansas City, MO  | [Going Schema-less: How to migrate a relational database to a NoSQL database](https://github.com/TaleLearnCode/GoingSchemaless) |
+| [Beer City Code](https://www.beercitycode.com/)              | August 8 - 9, 2025    | Grand Rapids, MI | [Unlock the Power of Messaging Patterns](https://github.com/TaleLearnCode/SuperchargeYourArchitecturesWithMessagingPatterns) |
+|                                                              |                       |                  | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/TransformChaosIntoOrderWithAzureDurableFunctions) |
+|                                                              |                       |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [dev up 2025](https://devupconf.org/)                        | August 6 - 8, 2025    | St. Charles, MO  | [Unlock the Power of Messaging Patterns](https://github.com/TaleLearnCode/SuperchargeYourArchitecturesWithMessagingPatterns) |
+|                                                              |                       |                  | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
+|                                                              |                       |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [Cincy Deliver](https://www.cincydeliver.org/)               | August 1, 2025        | Cincinnati, OH   | [Transform Chaos into Order with Azure Durable Functions](https://github.com/TaleLearnCode/TransformChaosIntoOrderWithAzureDurableFunctions) |
+| Louisville .NET Meetup                                       | June 26, 2025         | Louisville, KY   | [Navigating the Maze of Architecture Decisions](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [Stir Trek](https://stirtrek.com/speakers/2025/Chad-Green.html) | May 2, 2025           | Columbus, OH     | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [Atlanta Cloud Conference](https://atlcloudconf.com/)        | April 26, 2025        | Marietta, GA     | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/307268301/?eventOrigin=group_events_list) | April 17, 2025        | Louisville, KY   | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/306688452/?eventOrigin=group_events_list) | March 20, 2025        | Louisville, KY   | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/TheDarkSideOfDesignPatterns) |
+| [TALK's AI Think Tank](https://talklou.com/?p=3100)          | March 6, 2025         | Louisville, KY   | Hello, Computer? Embracing AI in Modern Development          |
+| [Conf42 Cloud Native 2025](https://www.conf42.com/Cloud_Native_2025_Chad_Green_microservices_architecture_defense) | March 6, 2025         | VOD              | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
+| [CodeMash](https://codemash.org/)                            | January 14 - 17, 2025 | Sandusky, OH     | [Unlock the Power of Messaging Patterns](https://github.com/TaleLearnCode/UnlockThePowerOfMessagingPatterns-CodeMash) |
+|                                                              | January 14 - 17, 2025 | Sandusky, OH     | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/TheDarkSideOfDesignPatterns) |
 
 ## 2024 Events
 
