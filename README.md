@@ -24,30 +24,28 @@
 
 9 events; 17 presentations
 
-| Event                                                        | Date(s)                | Location        | Presentation(s)                                              |
-| ------------------------------------------------------------ | ---------------------- | --------------- | ------------------------------------------------------------ |
-| [Serverless Architecture Conference Berlin](https://serverless-architecture.io/berlin/) | October 20 - 22, 2025  | Berlin, Germany | [Advanced Serverless Workshop](https://github.com/TaleLearnCode/AdvancedServerlessWorkshop) |
-|                                                              |                        |                 | [Ask Me Anything (AMA)](https://serverless-architecture.io/serverless-architecture-design/ask-me-anything-session/) |
-| [API Conference Berlin](https://apiconference.net/berlin/)   | October 20 - 22, 2025  | Berlin, Germany | [Scaling APIs Like the Heart of Berlin: Building Resilient APIs in Azure](https://github.com/TaleLearnCode/BuildingResilientAndScalableAPIsInAzure) |
-|                                                              |                        |                 | The Digital Gateway: Unlocking API Discovery & Governance with Azure API Center |
-| [Øredev 2025](https://oredev.org/)                           | November 5-7, 2025     | Malmö, Sweden   | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/TransformChaosIntoOrderWithAzureDurableFunctions) |
-|                                                              |                        |                 | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
-| [LIVE! 360 Tech Con 2025](https://live360events.com/events/orlando-2025/home.aspx) | November 16 - 21, 2025 | Orlando, FL     | [Hands-on Lab: Accelerate, Aspire, Achieve Next-Level Cloud Solutions with Azure and .NET](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
-|                                                              |                        |                 | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
-| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/home.aspx) | March 16-20, 2026      | Las Vegas, NV   | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
-|                                                              |                        |                 | [Crack the Code](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
-|                                                              |                        |                 | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
+| Event                                                        | Date(s)                | Location      | Presentation(s)                                              |
+| ------------------------------------------------------------ | ---------------------- | ------------- | ------------------------------------------------------------ |
+| [Øredev 2025](https://oredev.org/)                           | November 5-7, 2025     | Malmö, Sweden | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/TransformChaosIntoOrderWithAzureDurableFunctions) |
+|                                                              |                        |               | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
+| [LIVE! 360 Tech Con 2025](https://live360events.com/events/orlando-2025/home.aspx) | November 16 - 21, 2025 | Orlando, FL   | [Hands-on Lab: Accelerate, Aspire, Achieve Next-Level Cloud Solutions with Azure and .NET](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
+|                                                              |                        |               | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
+| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/home.aspx) | March 16-20, 2026      | Las Vegas, NV | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
+|                                                              |                        |               | [Crack the Code](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+|                                                              |                        |               | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
 
 ## 2026 Events
 
 1 Events (1 Cancelled); 3 presentations (1 Cancelled)
 
-| Event                                                        | Date                | Location       | Presentation                                                 |
-| ------------------------------------------------------------ | ------------------- | -------------- | ------------------------------------------------------------ |
-| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/home.aspx) | March 16-20, 2026   | Las Vegas, NV  | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
-|                                                              |                     |                | [Crack the Code](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
-|                                                              |                     |                | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
-| [Tunisia Dev Days 2025](https://tunisiadevdays.net/)<br />**Event Cancelled** | January 26-28, 2026 | Tunis, Tunisia | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/TheDarkSideOfDesignPatterns) |
+| Event                                                        | Date                 | Location         | Presentation                                                 |
+| ------------------------------------------------------------ | -------------------- | ---------------- | ------------------------------------------------------------ |
+| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/home.aspx) | March 16-20, 2026    | Las Vegas, NV    | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
+|                                                              |                      |                  | [Crack the Code](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+|                                                              |                      |                  | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
+| [ConFoo](https://confoo.ca/en/2026)                          | February 25-27, 2026 | Montreal, Canada | Effortless & Sustainable Apps with Azure Containers          |
+|                                                              |                      |                  | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
+| [Tunisia Dev Days 2025](https://tunisiadevdays.net/)<br />**Event Cancelled** | January 26-28, 2026  | Tunis, Tunisia   | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/TheDarkSideOfDesignPatterns) |
 
 
 
