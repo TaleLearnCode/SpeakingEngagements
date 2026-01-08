@@ -24,15 +24,20 @@
 
 9 events; 17 presentations
 
-| Event                                                        | Date(s)                | Location      | Presentation(s)                                              |
-| ------------------------------------------------------------ | ---------------------- | ------------- | ------------------------------------------------------------ |
-| [Øredev 2025](https://oredev.org/)                           | November 5-7, 2025     | Malmö, Sweden | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/TransformChaosIntoOrderWithAzureDurableFunctions) |
-|                                                              |                        |               | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
-| [LIVE! 360 Tech Con 2025](https://live360events.com/events/orlando-2025/home.aspx) | November 16 - 21, 2025 | Orlando, FL   | [Hands-on Lab: Accelerate, Aspire, Achieve Next-Level Cloud Solutions with Azure and .NET](https://github.com/TaleLearnCode/BuildingServerlessSolutions) |
-|                                                              |                        |               | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
-| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/home.aspx) | March 16-20, 2026      | Las Vegas, NV | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
-|                                                              |                        |               | [Crack the Code](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
-|                                                              |                        |               | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
+| Event                                                        | Date(s)              | Location         | Presentation(s)                                              |
+| ------------------------------------------------------------ | -------------------- | ---------------- | ------------------------------------------------------------ |
+| [ConFoo](https://confoo.ca/en/2026)                          | February 25-27, 2026 | Montreal, Canada | Effortless & Sustainable Apps with Azure Containers          |
+|                                                              |                      |                  | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
+| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/home.aspx) | March 16-20, 2026    | Las Vegas, NV    | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
+|                                                              |                      |                  | [Crack the Code](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+|                                                              |                      |                  | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
+| [CodeStock](https://www.codestock.org/)                      | April 9-10, 2026     | Knoxville, TN    | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
+|                                                              |                      |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [Software Design & Development (SDD)](https://sddconf.com/)  | May 11-15, 2026      | London, UK       | One Day, Four Architectures: Hands-On with Monolith, N-Tier, Modular Monolith, and Microservices |
+|                                                              |                      |                  | [Crack the Code of Serverless Design](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+|                                                              |                      |                  | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
+|                                                              |                      |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+|                                                              |                      |                  | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
 
 ## 2026 Events
 
@@ -40,7 +45,11 @@
 
 | Event                                                        | Date                 | Location         | Presentation                                                 |
 | ------------------------------------------------------------ | -------------------- | ---------------- | ------------------------------------------------------------ |
-| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/home.aspx) | March 16-20, 2026    | Las Vegas, NV    | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
+| [Software Design & Development (SDD)](https://sddconf.com/)  | May 11-15, 2026      | London, UK       | One Day, Four Architectures: Hands-On with Monolith, N-Tier, Modular Monolith, and Microservices |
+|                                                              |                      |                  | [Crack the Code of Serverless Design](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+|                                                              |                      |                  | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
+|                                                              |                      |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/home.aspx) | March 16-20, 2026    | Las Vegas, NV    | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture)[Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
 |                                                              |                      |                  | [Crack the Code](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
 |                                                              |                      |                  | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
 | [ConFoo](https://confoo.ca/en/2026)                          | February 25-27, 2026 | Montreal, Canada | Effortless & Sustainable Apps with Azure Containers          |
