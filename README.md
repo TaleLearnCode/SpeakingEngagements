@@ -22,39 +22,52 @@
 ---
 ## Upcoming Events
 
-9 events; 17 presentations
+8 events; 15 presentations
 
-| Event                                                        | Date(s)              | Location         | Presentation(s)                                              |
-| ------------------------------------------------------------ | -------------------- | ---------------- | ------------------------------------------------------------ |
-| [ConFoo](https://confoo.ca/en/2026)                          | February 25-27, 2026 | Montreal, Canada | Effortless & Sustainable Apps with Azure Containers          |
-|                                                              |                      |                  | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
-| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/home.aspx) | March 16-20, 2026    | Las Vegas, NV    | [Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
-|                                                              |                      |                  | [Crack the Code](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
-|                                                              |                      |                  | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
-| [CodeStock](https://www.codestock.org/)                      | April 9-10, 2026     | Knoxville, TN    | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
-|                                                              |                      |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
-| [Software Design & Development (SDD)](https://sddconf.com/)  | May 11-15, 2026      | London, UK       | One Day, Four Architectures: Hands-On with Monolith, N-Tier, Modular Monolith, and Microservices |
-|                                                              |                      |                  | [Crack the Code of Serverless Design](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
-|                                                              |                      |                  | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
-|                                                              |                      |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
-|                                                              |                      |                  | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
+| Event                                                        | Date(s)                        | Location         | Presentation(s)                                              |
+| ------------------------------------------------------------ | ------------------------------ | ---------------- | ------------------------------------------------------------ |
+| Jasper Engines & Transmission (Private Event)                | April 7, 2026                  | Jasper, IN       | [What If Your AI Could be a Team?](https://github.com/TaleLearnCode/WhatIfYourAICloudBeATeam) |
+| [CodeStock](https://www.codestock.org/)                      | April 9-10, 2026               | Knoxville, TN    | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
+|                                                              |                                |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/313892686) | April 16, 2026                 | Louisville, KY   | [What If Your AI Could Be a Team?](https://github.com/TaleLearnCode/WhatIfYourAICloudBeATeam) |
+| [Central Ohio .NET Developer's Group (CONDG)](https://www.meetup.com/central-ohio-net-developers-group-condg/events/313792201) | April 23, 2026                 | Dublin, OH       | [What If Your AI Could Be a Team?](https://github.com/TaleLearnCode/WhatIfYourAICloudBeATeam) |
+| [Cincy .NET User Group (CINNNUG)](https://www.meetup.com/techlife-cincinnati/events/311751792/) | April 28, 2026                 | Cincinnati, OH   | [What If Your AI Could Be a Team?](https://github.com/TaleLearnCode/WhatIfYourAICloudBeATeam) |
+| [Software Design & Development (SDD)](https://sddconf.com/)  | May 11-15, 2026                | London, UK       | One Day, Four Architectures: Hands-On with Monolith, N-Tier, Modular Monolith, and Microservices |
+|                                                              |                                |                  | [Crack the Code of Serverless Design](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+|                                                              |                                |                  | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
+|                                                              |                                |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+|                                                              |                                |                  | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
+| [Beer City Code 2026](https://www.beercitycode.com/)         | August 14-15, 2026             | Grand Rapids, MI | One Day, Four Architectures: Hands-On with Monolith, N-Tier, Modular Monolith, and Microservices |
+|                                                              |                                |                  | [Architecting with AI: From Requirements to Reality](https://github.com/TaleLearnCode/ArchitectingWithAI) |
+| [Cloud & AI Summit 2026](https://www.cloudandaisummit.com/)  | September 30 - October 2, 2026 | St. Louis, MO    | [Architecting with AI: From Requirements to Reality](https://github.com/TaleLearnCode/ArchitectingWithAI) |
+|                                                              |                                |                  | [Serverless Beyond the Happy Path: What Actually Happens in Production](https://github.com/TaleLearnCode/ServerlessBeyondTheHappyPath) |
 
 ## 2026 Events
 
-1 Events (1 Cancelled); 3 presentations (1 Cancelled)
+11 Events (1 Cancelled); 20 presentations (1 Cancelled)
 
-| Event                                                        | Date                 | Location         | Presentation                                                 |
-| ------------------------------------------------------------ | -------------------- | ---------------- | ------------------------------------------------------------ |
-| [Software Design & Development (SDD)](https://sddconf.com/)  | May 11-15, 2026      | London, UK       | One Day, Four Architectures: Hands-On with Monolith, N-Tier, Modular Monolith, and Microservices |
-|                                                              |                      |                  | [Crack the Code of Serverless Design](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
-|                                                              |                      |                  | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
-|                                                              |                      |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
-| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/home.aspx) | March 16-20, 2026    | Las Vegas, NV    | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture)[Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
-|                                                              |                      |                  | [Crack the Code](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
-|                                                              |                      |                  | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
-| [ConFoo](https://confoo.ca/en/2026)                          | February 25-27, 2026 | Montreal, Canada | Effortless & Sustainable Apps with Azure Containers          |
-|                                                              |                      |                  | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
-| [Tunisia Dev Days 2025](https://tunisiadevdays.net/)<br />**Event Cancelled** | January 26-28, 2026  | Tunis, Tunisia   | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/TheDarkSideOfDesignPatterns) |
+| Event                                                        | Date                           | Location         | Presentation                                                 |
+| ------------------------------------------------------------ | ------------------------------ | ---------------- | ------------------------------------------------------------ |
+| [Beer City Code 2026](https://www.beercitycode.com/)         | August 14-15, 2026             | Grand Rapids, MI | One Day, Four Architectures: Hands-On with Monolith, N-Tier, Modular Monolith, and Microservices |
+|                                                              |                                |                  | [Architecting with AI: From Requirements to Reality](https://github.com/TaleLearnCode/ArchitectingWithAI) |
+| [Cloud & AI Summit 2026](https://www.cloudandaisummit.com/)  | September 30 - October 2, 2026 | St. Louis, MO    | [Architecting with AI: From Requirements to Reality](https://github.com/TaleLearnCode/ArchitectingWithAI) |
+|                                                              |                                |                  | Serverless Beyond the Happy Path: What Actually Happens in Production |
+| [Software Design & Development (SDD)](https://sddconf.com/)  | May 11-15, 2026                | London, UK       | One Day, Four Architectures: Hands-On with Monolith, N-Tier, Modular Monolith, and Microservices |
+|                                                              |                                |                  | [Crack the Code of Serverless Design](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+|                                                              |                                |                  | [Code, Connect, Conquer: Mastering Serverless and API-Centric Designs](https://github.com/TaleLearnCode/CodeConnectConquer) |
+|                                                              |                                |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| [Cincy .NET User Group (CINNNUG)](https://www.meetup.com/techlife-cincinnati/events/311751792/) | April 28, 2026                 | Cincinnati, OH   | What If Your AI Could Be a Team?                             |
+| [Central Ohio .NET Developer's Group (CONDG)](https://www.meetup.com/central-ohio-net-developers-group-condg/events/313792201) | April 23, 2026                 | Dublin, OH       | What If Your AI Could Be a Team?                             |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/313892686) | April 16, 2026                 | Louisville, KY   | What If Your AI Could Be a Team?                             |
+| [CodeStock](https://www.codestock.org/)                      | April 9-10, 2026               | Knoxville, TN    | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
+|                                                              |                                |                  | [Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](https://github.com/TaleLearnCode/NavigatingTheMaze) |
+| Jasper Engines & Transmission (Private Event)                | April 7, 2026                  | Jasper, IN       | What If Your AI Could Be a Team?                             |
+| [Visual Studio Live!](https://vslive.com/events/las-vegas-2026/home.aspx) | March 16-20, 2026              | Las Vegas, NV    | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture)[Fast Focus: Time Travelling Data: SQL Server Temporal Tables](https://github.com/TaleLearnCode/TimeTravellingData) |
+|                                                              |                                |                  | [Crack the Code](https://github.com/TaleLearnCode/ArchitectLikeABoss) |
+|                                                              |                                |                  | [In Defense of Microservices](https://github.com/TaleLearnCode/InDefenseOfMicroservices) |
+| [ConFoo](https://confoo.ca/en/2026)                          | February 25-27, 2026           | Montreal, Canada | Effortless & Sustainable Apps with Azure Containers          |
+|                                                              |                                |                  | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
+| [Tunisia Dev Days 2025](https://tunisiadevdays.net/)<br />**Event Cancelled** | January 26-28, 2026            | Tunis, Tunisia   | [The Dark Side of Design Patterns: What They Don't Tell You](https://github.com/TaleLearnCode/TheDarkSideOfDesignPatterns) |
 
 
 
